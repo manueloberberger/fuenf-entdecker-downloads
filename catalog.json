@@ -3,20 +3,191 @@
   "packs": [
     {
       "id": "winter-ocean",
+      "version": 2,
+      "title": "Paw Patrol – Strandrettung",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/winter-ocean-v2.zip",
+      "sha256": "db3fabfeb23068356392275bc50e73e6fee4465943f90623afbf8cf5c3549ea5",
+      "bytes": 12876216
+    },
+    {
+      "id": "biene-maja-garten",
       "version": 1,
-      "title": "Winter & Unterwasser · Testpaket",
-      "minAppVersionCode": 1,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v1/winter-ocean-v1.zip",
-      "sha256": "67f7d45fb30f2b1fbe5e52a0d18e651e9870dff3ff46659ad9a47a33b0d76116",
-      "bytes": 4477786
+      "title": "Biene Maja – Gartenfest",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/biene-maja-garten-v1.zip",
+      "sha256": "a9889d9331ee413b8f4a7eede3edba01779cadbe2a68ffe32b9ca998bb38e39b",
+      "bytes": 13611434
+    },
+    {
+      "id": "biene-maja-teich",
+      "version": 1,
+      "title": "Biene Maja – Am Teich",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/biene-maja-teich-v1.zip",
+      "sha256": "b4958f825406138c53a8e341fbfb749789df911646ce8e06c0db8a63bd267bed",
+      "bytes": 13411714
+    },
+    {
+      "id": "biene-maja-wiese",
+      "version": 1,
+      "title": "Biene Maja – Blumenwiese",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/biene-maja-wiese-v1.zip",
+      "sha256": "f109716684c340f0909f329bb72fa94c226b73f3a79cd0561fc600555c23c8c9",
+      "bytes": 13234862
+    },
+    {
+      "id": "feuerwehrmann-sam-hafen",
+      "version": 1,
+      "title": "Feuerwehrmann Sam – Am Hafen",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/feuerwehrmann-sam-hafen-v1.zip",
+      "sha256": "185f6be67e740d27f6362401785f5726fb0939c2d802ed3242283495d3f3281e",
+      "bytes": 12603956
+    },
+    {
+      "id": "feuerwehrmann-sam-wache",
+      "version": 1,
+      "title": "Feuerwehrmann Sam – Feuerwache",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/feuerwehrmann-sam-wache-v1.zip",
+      "sha256": "ae4ca0cd829c6535b56aaf619b5a227e112ca0f7d338b3318334ec73d26620f2",
+      "bytes": 12054533
+    },
+    {
+      "id": "feuerwehrmann-sam-wald",
+      "version": 1,
+      "title": "Feuerwehrmann Sam – Waldstation",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/feuerwehrmann-sam-wald-v1.zip",
+      "sha256": "ccc667a08271643295d383d03ef6c7a22927fc77ef71d75f43af4a5a4f35ef81",
+      "bytes": 13203093
+    },
+    {
+      "id": "heidi-alm",
+      "version": 1,
+      "title": "Heidi – Auf der Alm",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/heidi-alm-v1.zip",
+      "sha256": "b544cb6c0b9c829ba58a171e4b68eb1649732bb952c2140a6b75ebe114f26391",
+      "bytes": 13763275
+    },
+    {
+      "id": "heidi-dorf",
+      "version": 1,
+      "title": "Heidi – Dorfbesuch",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/heidi-dorf-v1.zip",
+      "sha256": "fa1a8012ae4d995a2f4e80b6c62aa5ee24720433b9bfd493ab3bb794d85a6fb9",
+      "bytes": 13463491
+    },
+    {
+      "id": "heidi-ziegen",
+      "version": 1,
+      "title": "Heidi – Bei den Ziegen",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/heidi-ziegen-v1.zip",
+      "sha256": "123750c29150f455de460183bc8a6f4017459292109b541826566d6acc8f851e",
+      "bytes": 13890431
+    },
+    {
+      "id": "paw-patrol-berg",
+      "version": 1,
+      "title": "Paw Patrol – Bergstation",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/paw-patrol-berg-v1.zip",
+      "sha256": "28cd468e5507f20b492337a032480111c047f821c4c6156f4aaba6ecbf88d67a",
+      "bytes": 13355938
+    },
+    {
+      "id": "paw-patrol-garten",
+      "version": 1,
+      "title": "Paw Patrol – Gartentag",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/paw-patrol-garten-v1.zip",
+      "sha256": "d7350ce38ba5c0e56b6b1cbb9d66dd8e40d6b249e3c428addf38b02d5cb129f4",
+      "bytes": 12878119
+    },
+    {
+      "id": "paw-patrol-hafen",
+      "version": 1,
+      "title": "Paw Patrol – Hafenbesuch",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/paw-patrol-hafen-v1.zip",
+      "sha256": "3b14b3065aa47caaea7f7393c03826635d737c303e347b51638ae21eaa468372",
+      "bytes": 12044543
+    },
+    {
+      "id": "schluempfe-dorf",
+      "version": 1,
+      "title": "Die Schlümpfe – Schlumpfdorf",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/schluempfe-dorf-v1.zip",
+      "sha256": "1083e85b7c4b77ee1417f4f615f985a36af49658243a2f4414bce0f1b97ae50c",
+      "bytes": 13742435
+    },
+    {
+      "id": "schluempfe-garten",
+      "version": 1,
+      "title": "Die Schlümpfe – Gartentag",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/schluempfe-garten-v1.zip",
+      "sha256": "4a7047d707468573f8fe3d1a00935ce8390df79cd9e8755e98432833a3fec313",
+      "bytes": 14047078
+    },
+    {
+      "id": "schluempfe-picknick",
+      "version": 1,
+      "title": "Die Schlümpfe – Waldpicknick",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/schluempfe-picknick-v1.zip",
+      "sha256": "0bf79f9d2506002738801b245c6ebb18b09c0a62df12a6f15a2df28f8d38a6d8",
+      "bytes": 14144692
+    },
+    {
+      "id": "super-wings-bauernhof",
+      "version": 1,
+      "title": "Super Wings – Bauernhof",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-bauernhof-v1.zip",
+      "sha256": "5b4055a5763e49a284e1ec282298757ac333d2ec6cd992b3200429989fca21b5",
+      "bytes": 12762817
+    },
+    {
+      "id": "super-wings-dschungel",
+      "version": 1,
+      "title": "Super Wings – Dschungelstation",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-dschungel-v1.zip",
+      "sha256": "81e3573904a3407b27fef51ba68a486472e60a84cdae4ec9e677100bf0303014",
+      "bytes": 13867139
+    },
+    {
+      "id": "super-wings-flugplatz",
+      "version": 1,
+      "title": "Super Wings – Flugplatz",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-flugplatz-v1.zip",
+      "sha256": "53079935f9fcea95bd715b2c0b8cc6f82f85a36445b7a1a0c9ea5bd92032d7ac",
+      "bytes": 11179175
+    },
+    {
+      "id": "super-wings-insel",
+      "version": 1,
+      "title": "Super Wings – Inselpost",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-insel-v1.zip",
+      "sha256": "05538c0023e43c2d6889d1818cd37ff57966ee78b67d4beca397dea5d7dd3397",
+      "bytes": 12267228
     }
   ],
   "app": {
-    "versionCode": 2,
-    "versionName": "0.2.0",
+    "versionCode": 3,
+    "versionName": "0.3.0",
     "minSdk": 23,
-    "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.2.0/Fuenf-Entdecker-0.2.0.apk",
-    "sha256": "d570c7b2d95346474a19d6cd359e66e1d19ee8a95132371fd1521ddd7cd0c136",
+    "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.3.0/Fuenf-Entdecker-0.3.0.apk",
+    "sha256": "13fabe6c3c291f5d182b28e331e11dddfa7f9c053f32ed7202f5791b14072269",
     "bytes": 49706
   }
 }

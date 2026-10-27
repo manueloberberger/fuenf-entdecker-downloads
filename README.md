@@ -4,7 +4,7 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder, fünf 
 
 **[Aktuelle APK direkt herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)** – dieser Link bleibt für weitere Versionen gleich.
 
-Aktuelle Testversion: 0.2.0. Die APK enthält keine Spielbilder und ist etwa 50 KB klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
+Aktuelle Testversion: 0.3.0. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
 
 ## Spielen und aktualisieren
 
@@ -16,7 +16,9 @@ Aktuelle Testversion: 0.2.0. Die APK enthält keine Spielbilder und ist etwa 50 
 - Fortschritte und geladene Bilder bleiben bei regulären APK-Updates erhalten. Eine Deinstallation oder das Löschen der Appdaten entfernt sie.
 - Keine Anmeldung, Werbung oder Übertragung von Spielständen.
 
-Künftig enthält ein ZIP genau ein Rätsel: Originalbild, retuschiertes Vergleichsbild und fünf Trefferstellen. Neue verschiedene Motive mit entfernten Bilddetails folgen separat. Bis dahin ist das bisherige Winter-/Unterwasserpaket als Testinhalt verfügbar; dieses verwendet noch zusätzliche native Spielobjekte.
+20 Motive mit Paw Patrol, Super Wings, Biene Maja, Heidi, den Schlümpfen und Feuerwehrmann Sam. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
+
+Zuerst auf 0.3.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
 ## Installation
 
