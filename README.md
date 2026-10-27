@@ -4,7 +4,7 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder, fünf 
 
 **[Aktuelle APK direkt herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)** – dieser Link bleibt für weitere Versionen gleich.
 
-Aktuelle Testversion: 0.3.0. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
+Aktuelle Testversion: 0.3.1. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
 
 ## Spielen und aktualisieren
 
@@ -18,7 +18,7 @@ Aktuelle Testversion: 0.3.0. Die APK enthält keine Spielbilder und bleibt klein
 
 20 Motive mit Paw Patrol, Super Wings, Biene Maja, Heidi, den Schlümpfen und Feuerwehrmann Sam. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
 
-Zuerst auf 0.3.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
+Zuerst auf 0.3.1 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
 ## Installation
 
@@ -31,3 +31,5 @@ Von 0.1.0 aus das erste Update im Elternbereich suchen. Die automatische Startpr
 Hier liegen ausschließlich fertige APKs, Datenpakete, Prüfsummen, öffentlicher Schlüssel und signierter Downloadkatalog. Der Quellcode ist separat privat. Keine persönlichen Daten, Spielstände, Namen oder Fotos von Kindern und keine Signierschlüssel.
 
 Der Katalogvergleich verwendet Kennung und Versionsnummer. ZIPs werden nur für neue oder ausgewählte aktualisierte Rätsel geladen. Prüfsummen, Katalogsignatur, zulässige Pfade und Bilddaten werden vor der Übernahme geprüft. APK-Updates müssen denselben Herausgeber haben.
+
+Ab0.3.1: „Eltern“ → „Neue Bilder & App-Updates“ → „Alle neuen Bilder laden“. Anzahl und Gesamtgröße werden vorab angezeigt. Der Fortschritt ist sichtbar; ein Abbruch erhält bereits fertige Bilder. Bei einem erneuten Versuch werden vorhandene Pakete übersprungen.
