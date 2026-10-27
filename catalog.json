@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "winter-ocean",
+      "version": 1,
+      "title": "Winter & Unterwasser · 4 neue Rätsel",
+      "minAppVersionCode": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v1/winter-ocean-v1.zip",
+      "sha256": "67f7d45fb30f2b1fbe5e52a0d18e651e9870dff3ff46659ad9a47a33b0d76116",
+      "bytes": 4477786
+    }
+  ],
+  "app": null
+}
