@@ -180,6 +180,51 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-insel-v1.zip",
       "sha256": "05538c0023e43c2d6889d1818cd37ff57966ee78b67d4beca397dea5d7dd3397",
       "bytes": 12267228
+    },
+    {
+      "id": "baustelle-bagger",
+      "version": 1,
+      "title": "Baustelle – Bagger und Kipper",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v3/baustelle-bagger-v1.zip",
+      "sha256": "0ff128ef716ea8bbee72e65b6ae11fdbde1b06ef1def23049b1a95f45cd0965e",
+      "bytes": 12820279
+    },
+    {
+      "id": "strassenbau-walze",
+      "version": 1,
+      "title": "Straßenbau – Walze und Betonmischer",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v3/strassenbau-walze-v1.zip",
+      "sha256": "4e444815ce4b4209a8088cb015cfc7d009846d1fbef3f24f03bd590060b3224d",
+      "bytes": 13266484
+    },
+    {
+      "id": "bahnhof-bummelzug",
+      "version": 1,
+      "title": "Fahrzeuge – Der bunte Bummelzug",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v3/bahnhof-bummelzug-v1.zip",
+      "sha256": "c2e16f3472b599be1e157fe657b49c34a02b9a0dea5714db16ed418562f1fc42",
+      "bytes": 12505985
+    },
+    {
+      "id": "waldtiere-biberbach",
+      "version": 1,
+      "title": "Tiere – Biber am Bach",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v3/waldtiere-biberbach-v1.zip",
+      "sha256": "afc7117e9bf005b17ff0c5dc494a78c666d23744be56abe6d83a9acbe385084e",
+      "bytes": 15095898
+    },
+    {
+      "id": "zoo-giraffe-elefant",
+      "version": 1,
+      "title": "Zoo – Giraffe und Elefant",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v3/zoo-giraffe-elefant-v1.zip",
+      "sha256": "187e24ec2a2c263284c13f91304c905065b6d65da02a90963b6ee4ca742b9c7f",
+      "bytes": 13879211
     }
   ],
   "app": {
