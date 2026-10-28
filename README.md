@@ -4,7 +4,7 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder, fünf 
 
 **[Aktuelle APK direkt herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)** – dieser Link bleibt für weitere Versionen gleich.
 
-Aktuelle Testversion: 0.3.1. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
+Aktuelle Testversion: 0.4.0. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
 
 ## Spielen und aktualisieren
 
@@ -18,7 +18,7 @@ Aktuelle Testversion: 0.3.1. Die APK enthält keine Spielbilder und bleibt klein
 
 28 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
 
-Zuerst auf 0.3.1 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
+Zuerst auf 0.4.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
 ## Installation
 
@@ -37,3 +37,27 @@ Ab0.3.1: „Eltern“ → „Neue Bilder & App-Updates“ → „Alle neuen Bild
 Neue Bilder vom 28.10.2026: fünf zusätzliche ZIPs mit 20 Bildern (je Original und Leicht/Mittel/Schwer). Die dritte Stufe heißt in App 0.3.1 „Knifflig“. Für beide Altersprofile ab 3 und ab 6. App 0.3.1 kann die zusätzlichen Bilder direkt laden; ein weiteres App-Update ist nicht nötig. Bereits geladene Motive bleiben erhalten.
 
 Drei neue Chuggington-Pakete: Freunde im Lokdepot, Abenteuer an der Brücke und Obst im Güterbahnhof. Insgesamt 28 Motive und 112 Bilder, jeweils Original plus Leicht/Mittel/Knifflig. Für beide Altersprofile ab 3 und ab 6. Ohne APK-Update über „Alle neuen Bilder laden“ verfügbar.
+
+## Neu in App 0.4.0
+
+Der Elternbereich ist in Bilder & Speicher, Profile & Spiel und App & Updates
+gegliedert. Bilder lassen sich mit Vorschau und Größenangaben auswählen,
+entfernen und erneut herunterladen. Das Entfernen betrifft beide Profile,
+behält die Spielstände aber standardmäßig. Auch einzelne Rätsel oder eine
+Schwierigkeitsstufe können gezielt zurückgesetzt werden.
+
+Filter, Favoriten und Fortsetzen erleichtern die Bildauswahl. Profil, Stufe
+und Trefferstand stehen direkt im Spiel. Große Touchflächen, Hinweisdauer,
+Töne und Animationen sind je Profil einstellbar. Beide Bilder bleiben maximal
+groß und vollständig; Finger und kapazitive Touch-Stifte funktionieren weiterhin.
+Downloads zeigen Bytefortschritt und Prüfphasen. Fertige Pakete bleiben auch
+nach einem Abbruch erhalten; liegengebliebene Importdateien werden sicher
+bereinigt. Vorhandene Rätsel sind offline spielbar.
+
+Ein reguläres APK-Update erhält Bilder und Spielstände. Eine Deinstallation
+oder das Löschen der Appdaten entfernt diese Daten. Nach einer Neuinstallation
+bietet der aktuelle Katalog den gesamten aktuellen Bilderbestand an.
+
+Diese App-Freigabe enthält weiterhin dieselben 28 Motive. Eine getrennte
+Bilderrunde mit sieben neu gestalteten Ersatzmotiven und zwei neuen Motiven
+auf insgesamt 30 Rätsel wird anschließend vorbereitet.
