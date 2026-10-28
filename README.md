@@ -16,7 +16,7 @@ Aktuelle Testversion: 0.3.1. Die APK enthält keine Spielbilder und bleibt klein
 - Fortschritte und geladene Bilder bleiben bei regulären APK-Updates erhalten. Eine Deinstallation oder das Löschen der Appdaten entfernt sie.
 - Keine Anmeldung, Werbung oder Übertragung von Spielständen.
 
-25 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
+28 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
 
 Zuerst auf 0.3.1 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
@@ -35,3 +35,5 @@ Der Katalogvergleich verwendet Kennung und Versionsnummer. ZIPs werden nur für 
 Ab0.3.1: „Eltern“ → „Neue Bilder & App-Updates“ → „Alle neuen Bilder laden“. Anzahl und Gesamtgröße werden vorab angezeigt. Der Fortschritt ist sichtbar; ein Abbruch erhält bereits fertige Bilder. Bei einem erneuten Versuch werden vorhandene Pakete übersprungen.
 
 Neue Bilder vom 28.10.2026: fünf zusätzliche ZIPs mit 20 Bildern (je Original und Leicht/Mittel/Schwer). Die dritte Stufe heißt in App 0.3.1 „Knifflig“. Für beide Altersprofile ab 3 und ab 6. App 0.3.1 kann die zusätzlichen Bilder direkt laden; ein weiteres App-Update ist nicht nötig. Bereits geladene Motive bleiben erhalten.
+
+Drei neue Chuggington-Pakete: Freunde im Lokdepot, Abenteuer an der Brücke und Obst im Güterbahnhof. Insgesamt 28 Motive und 112 Bilder, jeweils Original plus Leicht/Mittel/Knifflig. Für beide Altersprofile ab 3 und ab 6. Ohne APK-Update über „Alle neuen Bilder laden“ verfügbar.

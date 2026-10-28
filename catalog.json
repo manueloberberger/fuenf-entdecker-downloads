@@ -225,6 +225,33 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v3/zoo-giraffe-elefant-v1.zip",
       "sha256": "187e24ec2a2c263284c13f91304c905065b6d65da02a90963b6ee4ca742b9c7f",
       "bytes": 13879211
+    },
+    {
+      "id": "chuggington-depot",
+      "version": 1,
+      "title": "Chuggington – Freunde im Lokdepot",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v4/chuggington-depot-v1.zip",
+      "sha256": "b49a4200bf94c08f79688e0ed65ef3d6584304a5eb8d4bc6df71892f149ccf32",
+      "bytes": 12801152
+    },
+    {
+      "id": "chuggington-bruecke",
+      "version": 1,
+      "title": "Chuggington – Abenteuer an der Brücke",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v4/chuggington-bruecke-v1.zip",
+      "sha256": "26e435b299de0c0360f942aea3020b390330b1223a5c6b005243c4b991f53978",
+      "bytes": 14889707
+    },
+    {
+      "id": "chuggington-gueterbahnhof",
+      "version": 1,
+      "title": "Chuggington – Obst im Güterbahnhof",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v4/chuggington-gueterbahnhof-v1.zip",
+      "sha256": "d4691c7ba7dc34af37fd92494f393117cf1798f3d7059bf6b6149761fbed98be",
+      "bytes": 12751784
     }
   ],
   "app": {
