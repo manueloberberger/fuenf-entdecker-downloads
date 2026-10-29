@@ -16,7 +16,7 @@ Aktuelle Testversion: 0.4.0. Die APK enthält keine Spielbilder und bleibt klein
 - Fortschritte und geladene Bilder bleiben bei regulären APK-Updates erhalten. Eine Deinstallation oder das Löschen der Appdaten entfernt sie.
 - Keine Anmeldung, Werbung oder Übertragung von Spielständen.
 
-28 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
+30 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive, Weltraum und Dinosaurier. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
 
 Zuerst auf 0.4.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
@@ -58,6 +58,20 @@ Ein reguläres APK-Update erhält Bilder und Spielstände. Eine Deinstallation
 oder das Löschen der Appdaten entfernt diese Daten. Nach einer Neuinstallation
 bietet der aktuelle Katalog den gesamten aktuellen Bilderbestand an.
 
-Diese App-Freigabe enthält weiterhin dieselben 28 Motive. Eine getrennte
-Bilderrunde mit sieben neu gestalteten Ersatzmotiven und zwei neuen Motiven
-auf insgesamt 30 Rätsel wird anschließend vorbereitet.
+## Neue Bilder vom 29.10.2026
+
+Jetzt 30 unterschiedliche Motive mit insgesamt 120 Spielbildern. Neu sind
+„Weltraum – Werkstatt auf dem Mond“ und „Dinosaurier – Nest am Farnfluss“.
+Sieben bestehende Motive wurden mit neuen Szenen und individuellen Fehlerstellen
+überarbeitet: Maja auf der Tautropfenbrücke, Sam bei der Welpenrettung am Hafen
+und Katzenrettung im Wald, Heidi am Bergbach, Super Wings im Regenwald und bei
+der Kürbisernte sowie Chuggington bei der Holzverladung.
+
+Zuerst App 0.4.0 installieren, dann im Elternbereich unter „Bilder & Speicher“
+„Neue oder fehlende Rätsel laden“ wählen und anschließend „Alle neuen Bilder laden“. Beide Profile erhalten je Motiv
+Leicht, Mittel und Knifflig mit jeweils fünf Fehlerstellen. Die sieben neuen
+Bildversionen beginnen wegen neuer Fehlerstellen mit frischem Rätsel-Fortschritt;
+die anderen 21 Motive behalten ihre bisherigen Bilder und Fortschritte.
+Eine Neuinstallation bietet genau die 30 aktuellen Motive an. Frühere ZIPs
+bleiben für alte Downloadlinks erhalten und erscheinen nicht zusätzlich.
+Die APK bleibt bei 0.4.0; dieses Bilderupdate benötigt keine neue APK.

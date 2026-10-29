@@ -30,21 +30,23 @@
     },
     {
       "id": "biene-maja-wiese",
-      "version": 1,
-      "title": "Biene Maja – Blumenwiese",
-      "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/biene-maja-wiese-v1.zip",
-      "sha256": "f109716684c340f0909f329bb72fa94c226b73f3a79cd0561fc600555c23c8c9",
-      "bytes": 13234862
+      "version": 2,
+      "title": "Biene Maja – Die Tautropfenbrücke",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/biene-maja-wiese-v2.zip",
+      "sha256": "e4e9ccaf451ecc5b4b193fcb4910f7794e349cc0b207d13874c56187ac2bf2ea",
+      "bytes": 12582028
     },
     {
       "id": "feuerwehrmann-sam-hafen",
-      "version": 1,
-      "title": "Feuerwehrmann Sam – Am Hafen",
-      "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/feuerwehrmann-sam-hafen-v1.zip",
-      "sha256": "185f6be67e740d27f6362401785f5726fb0939c2d802ed3242283495d3f3281e",
-      "bytes": 12603956
+      "version": 2,
+      "title": "Feuerwehrmann Sam – Welpenrettung am Steg",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/feuerwehrmann-sam-hafen-v2.zip",
+      "sha256": "fd56b3ec546c186a3fb4b953d2af891bd73fb1457d8ea11a1eb0fa3edcc41a24",
+      "bytes": 13242984
     },
     {
       "id": "feuerwehrmann-sam-wache",
@@ -57,12 +59,13 @@
     },
     {
       "id": "feuerwehrmann-sam-wald",
-      "version": 1,
-      "title": "Feuerwehrmann Sam – Waldstation",
-      "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/feuerwehrmann-sam-wald-v1.zip",
-      "sha256": "ccc667a08271643295d383d03ef6c7a22927fc77ef71d75f43af4a5a4f35ef81",
-      "bytes": 13203093
+      "version": 2,
+      "title": "Feuerwehrmann Sam – Katzenrettung im Wald",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/feuerwehrmann-sam-wald-v2.zip",
+      "sha256": "5af9790856a7b8bbc2c5a3a44914e40fd1102fbd95835e0d64904a9074ed5492",
+      "bytes": 15159321
     },
     {
       "id": "heidi-alm",
@@ -84,12 +87,13 @@
     },
     {
       "id": "heidi-ziegen",
-      "version": 1,
-      "title": "Heidi – Bei den Ziegen",
-      "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/heidi-ziegen-v1.zip",
-      "sha256": "123750c29150f455de460183bc8a6f4017459292109b541826566d6acc8f851e",
-      "bytes": 13890431
+      "version": 2,
+      "title": "Heidi – Ziegensprung am Bergbach",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/heidi-ziegen-v2.zip",
+      "sha256": "95fa76b60dd9be3d2a3a62e3cddc82b45a571bbe87a817af81deece76c1c2ff4",
+      "bytes": 15462176
     },
     {
       "id": "paw-patrol-berg",
@@ -147,21 +151,23 @@
     },
     {
       "id": "super-wings-bauernhof",
-      "version": 1,
-      "title": "Super Wings – Bauernhof",
-      "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-bauernhof-v1.zip",
-      "sha256": "5b4055a5763e49a284e1ec282298757ac333d2ec6cd992b3200429989fca21b5",
-      "bytes": 12762817
+      "version": 2,
+      "title": "Super Wings – Kürbisernte auf dem Bauernhof",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/super-wings-bauernhof-v2.zip",
+      "sha256": "efea8101c60ba6d8a2ebc77b6f90fd3787a33ac61a3a811259ff54d145a954fa",
+      "bytes": 14630151
     },
     {
       "id": "super-wings-dschungel",
-      "version": 1,
-      "title": "Super Wings – Dschungelstation",
-      "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v2/super-wings-dschungel-v1.zip",
-      "sha256": "81e3573904a3407b27fef51ba68a486472e60a84cdae4ec9e677100bf0303014",
-      "bytes": 13867139
+      "version": 2,
+      "title": "Super Wings – Bananenlift im Regenwald",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/super-wings-dschungel-v2.zip",
+      "sha256": "ce82be79930617c43132a62bee36a9917b28ef54224153c025d9dea54afc05dd",
+      "bytes": 14853853
     },
     {
       "id": "super-wings-flugplatz",
@@ -246,12 +252,33 @@
     },
     {
       "id": "chuggington-gueterbahnhof",
+      "version": 2,
+      "title": "Chuggington – Holzladung am Güterkran",
+      "progressRevision": 2,
+      "minAppVersionCode": 5,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/chuggington-gueterbahnhof-v2.zip",
+      "sha256": "dd78fd1c72edb2e4839677f4db194d606f8a047869fd88fdee0fc15c671014b6",
+      "bytes": 14337961
+    },
+    {
+      "id": "weltraum-mondstation",
       "version": 1,
-      "title": "Chuggington – Obst im Güterbahnhof",
+      "title": "Weltraum – Werkstatt auf dem Mond",
+      "progressRevision": 1,
       "minAppVersionCode": 3,
-      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v4/chuggington-gueterbahnhof-v1.zip",
-      "sha256": "d4691c7ba7dc34af37fd92494f393117cf1798f3d7059bf6b6149761fbed98be",
-      "bytes": 12751784
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/weltraum-mondstation-v1.zip",
+      "sha256": "b56b1334a8556a0f17aaae46d88eddc8525505819406d5a23156c02181f935bd",
+      "bytes": 13462463
+    },
+    {
+      "id": "dinosaurier-flussufer",
+      "version": 1,
+      "title": "Dinosaurier – Nest am Farnfluss",
+      "progressRevision": 1,
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/dinosaurier-flussufer-v1.zip",
+      "sha256": "dd4382eff5bc6211d5a834c2496d1ba5e6443bb250f0e996ccd2c34373a9d1d8",
+      "bytes": 14933066
     }
   ],
   "app": {
