@@ -279,6 +279,51 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v5/dinosaurier-flussufer-v1.zip",
       "sha256": "dd4382eff5bc6211d5a834c2496d1ba5e6443bb250f0e996ccd2c34373a9d1d8",
       "bytes": 14933066
+    },
+    {
+      "id": "polar-eisbaeren-eishoehle",
+      "version": 1,
+      "title": "Polartiere – Eisbären an der Lichthöhle",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v6/polar-eisbaeren-eishoehle-v1.zip",
+      "sha256": "848f4808f68c7a60d1f928a53216ff22cb9f033b624baf3a3dc7b0bfbec6fab8",
+      "bytes": 14019133
+    },
+    {
+      "id": "polar-pinguine-eisrutsche",
+      "version": 1,
+      "title": "Polartiere – Pinguine auf der Eisrutsche",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v6/polar-pinguine-eisrutsche-v1.zip",
+      "sha256": "2e23cc046dd449708980f225bcf4c559f7352808f512bd46bcb0e77db8cf82f2",
+      "bytes": 13552719
+    },
+    {
+      "id": "polar-robben-muschelstrand",
+      "version": 1,
+      "title": "Polartiere – Robben am Muschelstrand",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v6/polar-robben-muschelstrand-v1.zip",
+      "sha256": "7d98d595771f6d4aa81e6e67b02633db59d7477f2aba578e570527cbf64df300",
+      "bytes": 14721661
+    },
+    {
+      "id": "polar-walrosse-schlitten",
+      "version": 1,
+      "title": "Polartiere – Walrosse und der Proviantschlitten",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v6/polar-walrosse-schlitten-v1.zip",
+      "sha256": "29a5566d1c6b2fca2f66d89879fe48288d803b62844d4ff7b4eda46218a3de98",
+      "bytes": 13557840
+    },
+    {
+      "id": "polar-polarfuechse-schneeule",
+      "version": 1,
+      "title": "Polartiere – Polarfüchse und die Schneeule",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v6/polar-polarfuechse-schneeule-v1.zip",
+      "sha256": "e5be2c96503ff8b68d61042a470403c6f7527693d20aa3d5c90614d163c97f71",
+      "bytes": 13391433
     }
   ],
   "app": {

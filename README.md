@@ -16,7 +16,7 @@ Aktuelle Testversion: 0.4.1. Die APK enthält keine Spielbilder und bleibt klein
 - Fortschritte und geladene Bilder bleiben bei regulären APK-Updates erhalten. Eine Deinstallation oder das Löschen der Appdaten entfernt sie.
 - Keine Anmeldung, Werbung oder Übertragung von Spielständen.
 
-30 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive, Weltraum und Dinosaurier. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
+35 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive, Weltraum, Dinosaurier und fünf Polartier-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
 
 Zuerst auf 0.4.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
@@ -82,3 +82,17 @@ Neue Rätsel und App-Updates stehen auf der Startseite in einer eigenen
 Schaltfläche unter der Überschrift. Antippen öffnet direkt die Downloadliste.
 Die Schrift überlagert sich nicht mehr. Bilder, Profile und Spielstände bleiben
 beim regulären Update erhalten. Laufende Bilderdownloads zuerst abschließen.
+
+## Fünf neue Polartier-Motive · 29.10.2026
+
+Eisbären an der Lichthöhle, Pinguine auf der Eisrutsche, Robben am Muschelstrand,
+Walrosse und der Proviantschlitten sowie Polarfüchse und die Schneeule.
+Jetzt 35 aktuelle Motive und 140 Spielbilder: je ein Original sowie Leicht,
+Mittel und Knifflig mit jeweils genau fünf Unterschieden. Beide Altersprofile
+nutzen alle drei Stufen mit getrenntem Fortschritt.
+
+Die App bleibt bei 0.4.1. Auf der Startseite den Hinweis auf neue Rätsel antippen
+und „Alle neuen Bilder laden“ bestätigen. Alternativ im Elternbereich unter
+„Bilder & Speicher“ → „Neue oder fehlende Rätsel laden“. Bereits vorhandene
+Motive und Fortschritte bleiben erhalten. Dieses Bilderrelease wird nicht als
+Latest markiert; der dauerhafte APK-Link zeigt weiterhin auf die aktuelle App.
