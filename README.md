@@ -4,7 +4,7 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder, fünf 
 
 **[Aktuelle APK direkt herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)** – dieser Link bleibt für weitere Versionen gleich.
 
-Aktuelle Testversion: 0.4.0. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
+Aktuelle Testversion: 0.4.1. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
 
 ## Spielen und aktualisieren
 
@@ -75,3 +75,10 @@ die anderen 21 Motive behalten ihre bisherigen Bilder und Fortschritte.
 Eine Neuinstallation bietet genau die 30 aktuellen Motive an. Frühere ZIPs
 bleiben für alte Downloadlinks erhalten und erscheinen nicht zusätzlich.
 Die APK bleibt bei 0.4.0; dieses Bilderupdate benötigt keine neue APK.
+
+## App 0.4.1
+
+Neue Rätsel und App-Updates stehen auf der Startseite in einer eigenen
+Schaltfläche unter der Überschrift. Antippen öffnet direkt die Downloadliste.
+Die Schrift überlagert sich nicht mehr. Bilder, Profile und Spielstände bleiben
+beim regulären Update erhalten. Laufende Bilderdownloads zuerst abschließen.
