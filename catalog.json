@@ -369,6 +369,24 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v7/schildkroeten-schatzsuche-v1.zip",
       "sha256": "63dc003ed89bb912885283d4b4cb75c64691f367d1e43267478efb8aa103f835",
       "bytes": 15349032
+    },
+    {
+      "id": "fledermaeuse-dachboden",
+      "version": 1,
+      "title": "Fledermäuse auf dem Dachboden",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v8/fledermaeuse-dachboden-v1.zip",
+      "sha256": "75267ff19a5794765cd5d323840eee162307fbc8141a8516988e39655eae9c24",
+      "bytes": 13239463
+    },
+    {
+      "id": "krabben-sandburg",
+      "version": 1,
+      "title": "Krabben bauen eine Sandburg",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v8/krabben-sandburg-v1.zip",
+      "sha256": "b33c9fd3297587515c93453b6a0ae0d62edc1a46a2183a5d52c40a615e7fb5ed",
+      "bytes": 15269289
     }
   ],
   "app": {
