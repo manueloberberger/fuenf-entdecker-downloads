@@ -16,7 +16,7 @@ Aktuelle Testversion: 0.4.1. Die APK enthält keine Spielbilder und bleibt klein
 - Fortschritte und geladene Bilder bleiben bei regulären APK-Updates erhalten. Eine Deinstallation oder das Löschen der Appdaten entfernt sie.
 - Keine Anmeldung, Werbung oder Übertragung von Spielständen.
 
-35 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive, Weltraum, Dinosaurier und fünf Polartier-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
+40 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive, Weltraum, Dinosaurier und fünf Polartier-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
 
 Zuerst auf 0.4.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
 
@@ -96,3 +96,16 @@ und „Alle neuen Bilder laden“ bestätigen. Alternativ im Elternbereich unter
 „Bilder & Speicher“ → „Neue oder fehlende Rätsel laden“. Bereits vorhandene
 Motive und Fortschritte bleiben erhalten. Dieses Bilderrelease wird nicht als
 Latest markiert; der dauerhafte APK-Link zeigt weiterhin auf die aktuelle App.
+
+## Fünf neue Tierabenteuer · 30.10.2026
+
+Waschbären in der Backstube, Katzen im Heißluftballon, Frösche beim
+Seerosenkonzert, Mäuse in der Uhrenwerkstatt und Schildkröten auf Schatzsuche.
+Jetzt 40 aktuelle Motive und 160 Spielbilder. Je Motiv Original sowie Leicht,
+Mittel und Knifflig mit jeweils genau fünf kontrollierten Unterschieden.
+Beide Profile teilen die Bilder und speichern getrennte Fortschritte.
+
+App 0.4.1 öffnen, den Hinweis auf neue Rätsel antippen und „Alle neuen Bilder
+laden“ bestätigen. Alternativ im Elternbereich unter „Bilder & Speicher“ →
+„Neue oder fehlende Rätsel laden“. Kein neues APK erforderlich; bereits
+vorhandene Bilder und Fortschritte bleiben erhalten.

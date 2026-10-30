@@ -324,6 +324,51 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v6/polar-polarfuechse-schneeule-v1.zip",
       "sha256": "e5be2c96503ff8b68d61042a470403c6f7527693d20aa3d5c90614d163c97f71",
       "bytes": 13391433
+    },
+    {
+      "id": "waschbaeren-backstube",
+      "version": 1,
+      "title": "Waschbären in der Backstube",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v7/waschbaeren-backstube-v1.zip",
+      "sha256": "31fb4abc6a9a461c7e9cc29c43c14f08b4273bcd653446608ad4c23421fea8e3",
+      "bytes": 13501138
+    },
+    {
+      "id": "katzen-heissluftballon",
+      "version": 1,
+      "title": "Katzen im Heißluftballon",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v7/katzen-heissluftballon-v1.zip",
+      "sha256": "71da19be2d9b37e2315d1ecd4bd15931be0f7a3f177c1dd74e7bc42b8102bac3",
+      "bytes": 13363542
+    },
+    {
+      "id": "froesche-seerosenkonzert",
+      "version": 1,
+      "title": "Frösche beim Seerosenkonzert",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v7/froesche-seerosenkonzert-v1.zip",
+      "sha256": "b91bebcfdbc8bce7f95786751e658e5dd1b2e4cedbba9787f532b96b384c1722",
+      "bytes": 12859571
+    },
+    {
+      "id": "maeuse-uhrenwerkstatt",
+      "version": 1,
+      "title": "Mäuse in der Uhrenwerkstatt",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v7/maeuse-uhrenwerkstatt-v1.zip",
+      "sha256": "e1fe50342571670309ffe4628fe0ad057a3ff65afab4518033c54e5d0288bbfb",
+      "bytes": 13078836
+    },
+    {
+      "id": "schildkroeten-schatzsuche",
+      "version": 1,
+      "title": "Schildkröten auf Schatzsuche",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v7/schildkroeten-schatzsuche-v1.zip",
+      "sha256": "63dc003ed89bb912885283d4b4cb75c64691f367d1e43267478efb8aa103f835",
+      "bytes": 15349032
     }
   ],
   "app": {
