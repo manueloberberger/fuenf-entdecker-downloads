@@ -372,11 +372,11 @@
     }
   ],
   "app": {
-    "versionCode": 7,
-    "versionName": "0.4.2",
+    "versionCode": 8,
+    "versionName": "0.4.3",
     "minSdk": 23,
-    "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.4.2/Fuenf-Entdecker-0.4.2.apk",
-    "sha256": "605351986b5558c190bc66b3dd846a31bfe31d8242f1dbd3ea104bbed34abf19",
+    "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.4.3/Fuenf-Entdecker-0.4.3.apk",
+    "sha256": "c96c49f0d951ce8ffd7c31ad1ac2b8b69204324eebd2e42ed566fabb1f414ced",
     "bytes": 78378
   }
 }

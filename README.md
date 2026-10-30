@@ -5,7 +5,7 @@ jedes Mal genau fünf Unterschiede, kein Zeitlimit.
 
 **[Aktuelle APK herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 
-Aktuelle Testversion: **0.4.2**. Der Downloadlink bleibt für zukünftige Versionen gleich.
+Aktuelle Testversion: **0.4.3**. Der Downloadlink bleibt für zukünftige Versionen gleich.
 
 ## Installieren und aktualisieren
 
@@ -20,6 +20,11 @@ heruntergeladenen Bilder und die lokalen Fortschritte.
 Die APK ist klein und enthält keine Spielbilder. Beim ersten Start mit Internet
 wird das erste passende Bilderpaket geladen. Weitere Motive kannst du anschließend
 auswählen. Einmal gespeicherte Bilder sind auch ohne Internet spielbar.
+
+## Neu in 0.4.3
+
+Die Startseite ist kompakter und lässt mehr Platz für Bilder. Im breiten
+Querformat stehen Profile, Suche und Weiterspielen in einer gemeinsamen Zeile.
 
 ## Spielen
 
@@ -53,7 +58,7 @@ Baustelle und Fahrzeuge, Biber und Zoo, Chuggington, Weltraum, Dinosaurier,
 fünf Polartier-Motive sowie Waschbären, Katzen, Frösche, Mäuse und Schildkröten.
 Je Motiv ein Original und drei retuschierte Vergleichsbilder. Beide Profile
 verwenden denselben Bilderbestand und speichern getrennte Fortschritte.
-Der Bilderbestand bleibt beim App-Update auf 0.4.2 unverändert.
+Der Bilderbestand bleibt beim App-Update auf 0.4.3 unverändert.
 
 ## Schutz
 
