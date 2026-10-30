@@ -1,111 +1,70 @@
 # Fünf Entdecker
 
-Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder, fünf Unterschiede, kein Zeitlimit.
+Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder,
+jedes Mal genau fünf Unterschiede, kein Zeitlimit.
 
-**[Aktuelle APK direkt herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)** – dieser Link bleibt für weitere Versionen gleich.
+**[Aktuelle APK herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 
-Aktuelle Testversion: 0.4.1. Die APK enthält keine Spielbilder und bleibt klein. Beim leeren Erststart wird das erste passende Bilderpaket geladen; weitere fehlende Rätsel werden zum Nachladen angeboten. Bereits geladene Bilder bleiben auf dem Tablet offline verfügbar und werden nicht bei jedem Start neu heruntergeladen.
+Aktuelle Testversion: **0.4.2**. Der Downloadlink bleibt für zukünftige Versionen gleich.
 
-## Spielen und aktualisieren
+## Installieren und aktualisieren
 
-- Zwei lokale Profile ab 3 und ab 6 Jahren; Schwierigkeit im Elternbereich frei ändern.
-- Ein Rätsel öffnet im Vollbild: quer links/rechts, hoch oben/unten. Beide Bilder sind vollständig und gleich groß.
-- Fünf Unterschiede in einem der beiden Bilder antippen. Hinweise lösen sie nicht automatisch.
-- Beim Start wird nach neuen Bildern und App-Versionen gesucht. Ein App-Update wird nach dem Download von Android bestätigt; keine stille Selbstinstallation.
-- „Eltern“ gedrückt halten → „Neue Bilder & App-Updates“ für manuelle Downloads und Updates.
-- Fortschritte und geladene Bilder bleiben bei regulären APK-Updates erhalten. Eine Deinstallation oder das Löschen der Appdaten entfernt sie.
-- Keine Anmeldung, Werbung oder Übertragung von Spielständen.
+1. APK im Elternprofil des Tablets herunterladen und öffnen.
+2. Falls Android oder Fire OS nachfragt, die Installation aus dieser Quelle erlauben.
+3. Ein vorhandenes Spiel regulär aktualisieren. Bilder und Spielstände bleiben dabei erhalten.
 
-40 verschiedene Motive: Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe und Feuerwehrmann Sam sowie neu Baustelle, Straßenbau, Bummelzug, Biber am Bach und Zoo mit Giraffe und Elefant sowie drei Chuggington-Motive, Weltraum, Dinosaurier und fünf Polartier-Motive. Ein ZIP pro Motiv bündelt das Original, drei retuschierte Vergleichsbilder und die jeweiligen fünf Trefferstellen. Leicht zeigt größere Änderungen, Mittel kleinere Details und Knifflig besonders feine Unterschiede. Beide Altersprofile können alle Stufen verwenden; Fortschritte bleiben getrennt.
+Die App benötigt Android 6 oder neuer. Kinderprofile können Installationen
+einschränken. Eine Deinstallation oder das Löschen der Appdaten entfernt die
+heruntergeladenen Bilder und die lokalen Fortschritte.
 
-Zuerst auf 0.4.0 aktualisieren, dann die neuen Bilder im Elternbereich herunterladen. Die aktualisierte Strandrettung ersetzt die beiden früheren Winter-/Unterwasser-Demomotive. Geladene Bilder bleiben offline verfügbar; für jeden weiteren Download das gewünschte Paket im Elternbereich wählen.
+Die APK ist klein und enthält keine Spielbilder. Beim ersten Start mit Internet
+wird das erste passende Bilderpaket geladen. Weitere Motive kannst du anschließend
+auswählen. Einmal gespeicherte Bilder sind auch ohne Internet spielbar.
 
-## Installation
+## Spielen
 
-APK im Elternprofil des Tablets herunterladen und öffnen. Android oder Fire OS kann eine Freigabe zur Installation aus dieser Quelle verlangen; Kinderprofile können sie einschränken. Die App setzt Android 6 oder neuer voraus. Fire-Modell, echter Stift und vollständiger bestätigter Updateablauf müssen auf dem echten Gerät geprüft werden.
+- Zwei lokale Profile ab 3 und ab 6 Jahren; jedes mit eigenem Fortschritt und Favoriten.
+- „Suchen“ filtert nach Motivtitel, Thema, offenen/geschafften Rätseln und Favoriten.
+- „Weiterspielen“ öffnet das zuletzt begonnene, noch offene Rätsel des Profils.
+- Beide Bilder erscheinen vollständig und gleich groß: quer nebeneinander, hoch übereinander.
+- Unterschiede in einem der Bilder antippen. Ein Tipp markiert eine offene Stelle und löst sie nicht automatisch.
+- Leicht, Mittel und Knifflig verwenden je Motiv eigene Vergleichsbilder mit fünf Unterschieden.
 
-Von 0.1.0 aus das erste Update im Elternbereich suchen. Die automatische Startprüfung ist ab 0.2.0 enthalten.
+## Elternbereich und Downloads
 
-## Dateien und Schutz
+„Eltern“ **zwei Sekunden gedrückt halten**. Dort findest du:
 
-Hier liegen ausschließlich fertige APKs, Datenpakete, Prüfsummen, öffentlicher Schlüssel und signierter Downloadkatalog. Der Quellcode ist separat privat. Keine persönlichen Daten, Spielstände, Namen oder Fotos von Kindern und keine Signierschlüssel.
+- **Bilder & Speicher:** gespeicherte Bilder suchen, sichtbare Treffer auswählen, Favoriten setzen, entfernen oder erneut laden. Spielstände bleiben beim Entfernen standardmäßig erhalten.
+- **Profile & Spiel:** Schwierigkeit, Töne, Touchflächen, Animationen und Hinweise einstellen; Fortschritte gezielt zurücksetzen.
+- **App & Updates:** neue Bilder suchen und ein verfügbares App-Update direkt laden.
 
-Der Katalogvergleich verwendet Kennung und Versionsnummer. ZIPs werden nur für neue oder ausgewählte aktualisierte Rätsel geladen. Prüfsummen, Katalogsignatur, zulässige Pfade und Bilddaten werden vor der Übernahme geprüft. APK-Updates müssen denselben Herausgeber haben.
+„Neue Bilder laden“ öffnet den Katalog. „Alle neuen Bilder laden“ zeigt Anzahl
+und Größe vor der Bestätigung. Bereits gespeicherte oder bewusst entfernte Motive
+werden beim Sammeldownload ausgelassen. Entfernte Bilder lassen sich einzeln erneut
+laden. Bei Abbruch bleiben fertige Downloads erhalten.
 
-Ab0.3.1: „Eltern“ → „Neue Bilder & App-Updates“ → „Alle neuen Bilder laden“. Anzahl und Gesamtgröße werden vorab angezeigt. Der Fortschritt ist sichtbar; ein Abbruch erhält bereits fertige Bilder. Bei einem erneuten Versuch werden vorhandene Pakete übersprungen.
+Neue Bilder und App-Updates erscheinen zusätzlich als antippbarer Hinweis auf
+der Startseite. Android bestätigt die Installation eines App-Updates selbst.
 
-Neue Bilder vom 28.10.2026: fünf zusätzliche ZIPs mit 20 Bildern (je Original und Leicht/Mittel/Schwer). Die dritte Stufe heißt in App 0.3.1 „Knifflig“. Für beide Altersprofile ab 3 und ab 6. App 0.3.1 kann die zusätzlichen Bilder direkt laden; ein weiteres App-Update ist nicht nötig. Bereits geladene Motive bleiben erhalten.
+## 40 Motive · 160 Spielbilder
 
-Drei neue Chuggington-Pakete: Freunde im Lokdepot, Abenteuer an der Brücke und Obst im Güterbahnhof. Insgesamt 28 Motive und 112 Bilder, jeweils Original plus Leicht/Mittel/Knifflig. Für beide Altersprofile ab 3 und ab 6. Ohne APK-Update über „Alle neuen Bilder laden“ verfügbar.
+Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe, Feuerwehrmann Sam,
+Baustelle und Fahrzeuge, Biber und Zoo, Chuggington, Weltraum, Dinosaurier,
+fünf Polartier-Motive sowie Waschbären, Katzen, Frösche, Mäuse und Schildkröten.
+Je Motiv ein Original und drei retuschierte Vergleichsbilder. Beide Profile
+verwenden denselben Bilderbestand und speichern getrennte Fortschritte.
+Der Bilderbestand bleibt beim App-Update auf 0.4.2 unverändert.
 
-## Neu in App 0.4.0
+## Schutz
 
-Der Elternbereich ist in Bilder & Speicher, Profile & Spiel und App & Updates
-gegliedert. Bilder lassen sich mit Vorschau und Größenangaben auswählen,
-entfernen und erneut herunterladen. Das Entfernen betrifft beide Profile,
-behält die Spielstände aber standardmäßig. Auch einzelne Rätsel oder eine
-Schwierigkeitsstufe können gezielt zurückgesetzt werden.
+Keine Werbung, keine Anmeldung und keine Übertragung von Spielständen.
+Downloads kommen ausschließlich aus dem festgelegten GitHub-Bereich. Die App
+prüft Katalogsignatur, Prüfsummen, Paketinhalt und den bisherigen APK-Herausgeber.
 
-Filter, Favoriten und Fortsetzen erleichtern die Bildauswahl. Profil, Stufe
-und Trefferstand stehen direkt im Spiel. Große Touchflächen, Hinweisdauer,
-Töne und Animationen sind je Profil einstellbar. Beide Bilder bleiben maximal
-groß und vollständig; Finger und kapazitive Touch-Stifte funktionieren weiterhin.
-Downloads zeigen Bytefortschritt und Prüfphasen. Fertige Pakete bleiben auch
-nach einem Abbruch erhalten; liegengebliebene Importdateien werden sicher
-bereinigt. Vorhandene Rätsel sind offline spielbar.
+Hier liegen ausschließlich fertige APKs, Bilderpakete, Prüfsummen, der öffentliche
+Prüfschlüssel und der signierte Katalog. Quellen bleiben separat privat.
+Keine privaten Signierschlüssel oder persönlichen Spielstände.
 
-Ein reguläres APK-Update erhält Bilder und Spielstände. Eine Deinstallation
-oder das Löschen der Appdaten entfernt diese Daten. Nach einer Neuinstallation
-bietet der aktuelle Katalog den gesamten aktuellen Bilderbestand an.
-
-## Neue Bilder vom 29.10.2026
-
-Jetzt 30 unterschiedliche Motive mit insgesamt 120 Spielbildern. Neu sind
-„Weltraum – Werkstatt auf dem Mond“ und „Dinosaurier – Nest am Farnfluss“.
-Sieben bestehende Motive wurden mit neuen Szenen und individuellen Fehlerstellen
-überarbeitet: Maja auf der Tautropfenbrücke, Sam bei der Welpenrettung am Hafen
-und Katzenrettung im Wald, Heidi am Bergbach, Super Wings im Regenwald und bei
-der Kürbisernte sowie Chuggington bei der Holzverladung.
-
-Zuerst App 0.4.0 installieren, dann im Elternbereich unter „Bilder & Speicher“
-„Neue oder fehlende Rätsel laden“ wählen und anschließend „Alle neuen Bilder laden“. Beide Profile erhalten je Motiv
-Leicht, Mittel und Knifflig mit jeweils fünf Fehlerstellen. Die sieben neuen
-Bildversionen beginnen wegen neuer Fehlerstellen mit frischem Rätsel-Fortschritt;
-die anderen 21 Motive behalten ihre bisherigen Bilder und Fortschritte.
-Eine Neuinstallation bietet genau die 30 aktuellen Motive an. Frühere ZIPs
-bleiben für alte Downloadlinks erhalten und erscheinen nicht zusätzlich.
-Die APK bleibt bei 0.4.0; dieses Bilderupdate benötigt keine neue APK.
-
-## App 0.4.1
-
-Neue Rätsel und App-Updates stehen auf der Startseite in einer eigenen
-Schaltfläche unter der Überschrift. Antippen öffnet direkt die Downloadliste.
-Die Schrift überlagert sich nicht mehr. Bilder, Profile und Spielstände bleiben
-beim regulären Update erhalten. Laufende Bilderdownloads zuerst abschließen.
-
-## Fünf neue Polartier-Motive · 29.10.2026
-
-Eisbären an der Lichthöhle, Pinguine auf der Eisrutsche, Robben am Muschelstrand,
-Walrosse und der Proviantschlitten sowie Polarfüchse und die Schneeule.
-Jetzt 35 aktuelle Motive und 140 Spielbilder: je ein Original sowie Leicht,
-Mittel und Knifflig mit jeweils genau fünf Unterschieden. Beide Altersprofile
-nutzen alle drei Stufen mit getrenntem Fortschritt.
-
-Die App bleibt bei 0.4.1. Auf der Startseite den Hinweis auf neue Rätsel antippen
-und „Alle neuen Bilder laden“ bestätigen. Alternativ im Elternbereich unter
-„Bilder & Speicher“ → „Neue oder fehlende Rätsel laden“. Bereits vorhandene
-Motive und Fortschritte bleiben erhalten. Dieses Bilderrelease wird nicht als
-Latest markiert; der dauerhafte APK-Link zeigt weiterhin auf die aktuelle App.
-
-## Fünf neue Tierabenteuer · 30.10.2026
-
-Waschbären in der Backstube, Katzen im Heißluftballon, Frösche beim
-Seerosenkonzert, Mäuse in der Uhrenwerkstatt und Schildkröten auf Schatzsuche.
-Jetzt 40 aktuelle Motive und 160 Spielbilder. Je Motiv Original sowie Leicht,
-Mittel und Knifflig mit jeweils genau fünf kontrollierten Unterschieden.
-Beide Profile teilen die Bilder und speichern getrennte Fortschritte.
-
-App 0.4.1 öffnen, den Hinweis auf neue Rätsel antippen und „Alle neuen Bilder
-laden“ bestätigen. Alternativ im Elternbereich unter „Bilder & Speicher“ →
-„Neue oder fehlende Rätsel laden“. Kein neues APK erforderlich; bereits
-vorhandene Bilder und Fortschritte bleiben erhalten.
+Die automatisierten Prüfungen und Sichtkontrollen laufen im lokalen Android-
+Emulator. Fire OS, Kinderprofil, echter Stift und der vollständige Updateablauf
+werden zusätzlich auf dem tatsächlichen Tablet getestet.
