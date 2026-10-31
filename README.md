@@ -12,8 +12,6 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 
 **[Version 1.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
-[Vorherige 0.4.3](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.4.3/Fuenf-Entdecker-0.4.3.apk)
-&nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
@@ -92,6 +90,12 @@ Unter **Profile & Spiel → Spielstände beider Profile sichern** wählst du sel
 **„Spielstände aus Datei wiederherstellen“** prüft die gewählte Datei vollständig. Erst nach deiner Bestätigung ersetzt die App die Spielstände und Einstellungen beider Profile. Fehlende Bilder lassen sich getrennt nachladen.
 
 Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicherten Bilder und Fortschritte. Eine eigene Sicherungsdatei bewahrst du außerhalb der App auf.
+
+## Veröffentlichungen und Rückfallversion
+
+Öffentlich steht die aktuelle **Version 1.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
+
+Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 45 WebP-Pakete für Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
 
 ## Schutz und geprüfte Downloads
 
