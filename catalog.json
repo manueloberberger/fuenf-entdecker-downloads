@@ -423,5 +423,421 @@
     "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.4.3/Fuenf-Entdecker-0.4.3.apk",
     "sha256": "c96c49f0d951ce8ffd7c31ad1ac2b8b69204324eebd2e42ed566fabb1f414ced",
     "bytes": 78378
-  }
+  },
+  "webpPacks": [
+    {
+      "id": "winter-ocean",
+      "version": 3,
+      "title": "Paw Patrol – Strandrettung",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/winter-ocean-v3-webp.zip",
+      "sha256": "28ebd60e6358d9dd9ed3fcebdcef68dc26154a21e217f2e8793a0a1a31c0d951",
+      "bytes": 7800955
+    },
+    {
+      "id": "biene-maja-garten",
+      "version": 2,
+      "title": "Biene Maja – Gartenfest",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/biene-maja-garten-v2-webp.zip",
+      "sha256": "6752a3dc7b9c6c6df0157e09cb5d41263a0aed37e260b89f68a43079dd9eb1a6",
+      "bytes": 8329923
+    },
+    {
+      "id": "biene-maja-teich",
+      "version": 2,
+      "title": "Biene Maja – Am Teich",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/biene-maja-teich-v2-webp.zip",
+      "sha256": "07536d637bf84f5d662e600dc17ca27d066abf38a93e38f5d83af7af16444dfe",
+      "bytes": 7978506
+    },
+    {
+      "id": "biene-maja-wiese",
+      "version": 3,
+      "title": "Biene Maja – Die Tautropfenbrücke",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/biene-maja-wiese-v3-webp.zip",
+      "sha256": "804de8f387e2215bf6cc2ce4d99895dccb68ca1b09ab68f5c4c84987cfb1e619",
+      "bytes": 7622962
+    },
+    {
+      "id": "feuerwehrmann-sam-hafen",
+      "version": 3,
+      "title": "Feuerwehrmann Sam – Welpenrettung am Steg",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/feuerwehrmann-sam-hafen-v3-webp.zip",
+      "sha256": "f8d885cee283cdc15f224d86730cc2049d02557584a03f7c8b289224e981d9ed",
+      "bytes": 8126983
+    },
+    {
+      "id": "feuerwehrmann-sam-wache",
+      "version": 2,
+      "title": "Feuerwehrmann Sam – Feuerwache",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/feuerwehrmann-sam-wache-v2-webp.zip",
+      "sha256": "924c1be6137c02eaf8e4d0a8cad3d9cb7a7a1eed9316bd6068cf2272a2b43499",
+      "bytes": 7124386
+    },
+    {
+      "id": "feuerwehrmann-sam-wald",
+      "version": 3,
+      "title": "Feuerwehrmann Sam – Katzenrettung im Wald",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/feuerwehrmann-sam-wald-v3-webp.zip",
+      "sha256": "3ba23cc981115162e0317c28c4114f0fef88617a80df2b163cf8d3ae84e4a0cd",
+      "bytes": 9555148
+    },
+    {
+      "id": "heidi-alm",
+      "version": 2,
+      "title": "Heidi – Auf der Alm",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/heidi-alm-v2-webp.zip",
+      "sha256": "85522624fe6881b84e3ad3ed5a0c2aece689064b03992aa44fbc276fabbe24ba",
+      "bytes": 8341203
+    },
+    {
+      "id": "heidi-dorf",
+      "version": 2,
+      "title": "Heidi – Dorfbesuch",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/heidi-dorf-v2-webp.zip",
+      "sha256": "f7e56c30a9e8376cbe64f343cda929916f75667bfe79bc6bd2a3fa839282a37d",
+      "bytes": 8094741
+    },
+    {
+      "id": "heidi-ziegen",
+      "version": 3,
+      "title": "Heidi – Ziegensprung am Bergbach",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/heidi-ziegen-v3-webp.zip",
+      "sha256": "1de87c6fdb01b21774a1935a4386c9a4740eefa8b8e8de0954b1cd127ad59b07",
+      "bytes": 9684965
+    },
+    {
+      "id": "paw-patrol-berg",
+      "version": 2,
+      "title": "Paw Patrol – Bergstation",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/paw-patrol-berg-v2-webp.zip",
+      "sha256": "d3fc1525ce804f5514246e5d3dc908132e94de1f2c5d9c4c606a23e27db42719",
+      "bytes": 8002422
+    },
+    {
+      "id": "paw-patrol-garten",
+      "version": 2,
+      "title": "Paw Patrol – Gartentag",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/paw-patrol-garten-v2-webp.zip",
+      "sha256": "0e6670fb9223d86e4ee93739802f0aaa91b424cc5fdbebdf3e2a784f063c8c15",
+      "bytes": 7721844
+    },
+    {
+      "id": "paw-patrol-hafen",
+      "version": 2,
+      "title": "Paw Patrol – Hafenbesuch",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/paw-patrol-hafen-v2-webp.zip",
+      "sha256": "37bfa1937fa95b2553ab31e45b780bd04821074512b4d409bf811cce2b98495d",
+      "bytes": 7097853
+    },
+    {
+      "id": "schluempfe-dorf",
+      "version": 2,
+      "title": "Die Schlümpfe – Schlumpfdorf",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/schluempfe-dorf-v2-webp.zip",
+      "sha256": "e0b4153f90f826ebd823c0b98bbcf5c59492e4c34029fb69fac0e0d655fe43ab",
+      "bytes": 8354757
+    },
+    {
+      "id": "schluempfe-garten",
+      "version": 2,
+      "title": "Die Schlümpfe – Gartentag",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/schluempfe-garten-v2-webp.zip",
+      "sha256": "4ac76174ae6c567ef65a3f644158ed9d1f55823a3d3da9ed3048212ac6c3685f",
+      "bytes": 8662655
+    },
+    {
+      "id": "schluempfe-picknick",
+      "version": 2,
+      "title": "Die Schlümpfe – Waldpicknick",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/schluempfe-picknick-v2-webp.zip",
+      "sha256": "348c9498836fb921e58666a12c243e814dc73c0ccb7c548c3cc1494f6f27748d",
+      "bytes": 8776064
+    },
+    {
+      "id": "super-wings-bauernhof",
+      "version": 3,
+      "title": "Super Wings – Kürbisernte auf dem Bauernhof",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/super-wings-bauernhof-v3-webp.zip",
+      "sha256": "f80766a3423b49cc09338e4672ca4d75bb582f09589c735d68337076efa0cde3",
+      "bytes": 9270619
+    },
+    {
+      "id": "super-wings-dschungel",
+      "version": 3,
+      "title": "Super Wings – Bananenlift im Regenwald",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/super-wings-dschungel-v3-webp.zip",
+      "sha256": "2b6db391d696a13e9f2209a610790c0bd32763c92d63fa1c0c4f2bd15d389653",
+      "bytes": 9415862
+    },
+    {
+      "id": "super-wings-flugplatz",
+      "version": 2,
+      "title": "Super Wings – Flugplatz",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/super-wings-flugplatz-v2-webp.zip",
+      "sha256": "e734568516a2b852a6097b44c2175df2ac41e92fa161f8a7fc63755110ab1e7c",
+      "bytes": 6582402
+    },
+    {
+      "id": "super-wings-insel",
+      "version": 2,
+      "title": "Super Wings – Inselpost",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/super-wings-insel-v2-webp.zip",
+      "sha256": "d36598a3a1cd77e0537008a2f090ede60568fa2a9e9521c1930ed2d36b6175ad",
+      "bytes": 7285633
+    },
+    {
+      "id": "baustelle-bagger",
+      "version": 2,
+      "title": "Baustelle – Bagger und Kipper",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/baustelle-bagger-v2-webp.zip",
+      "sha256": "95e1f0514a6974ee4ba3b893ce112645212cbc9c3512edcdeef558640457bb39",
+      "bytes": 8011205
+    },
+    {
+      "id": "strassenbau-walze",
+      "version": 2,
+      "title": "Straßenbau – Walze und Betonmischer",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/strassenbau-walze-v2-webp.zip",
+      "sha256": "02aab305267a19753f24c14efd9e8f861b7816818018f2a75253a05dde437e4b",
+      "bytes": 8226245
+    },
+    {
+      "id": "bahnhof-bummelzug",
+      "version": 2,
+      "title": "Fahrzeuge – Der bunte Bummelzug",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/bahnhof-bummelzug-v2-webp.zip",
+      "sha256": "dd087dd17106ce5e4fbee745446dbdd16ff56678f0d2ac1fff71eb4350e9ead8",
+      "bytes": 7637734
+    },
+    {
+      "id": "waldtiere-biberbach",
+      "version": 2,
+      "title": "Tiere – Biber am Bach",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/waldtiere-biberbach-v2-webp.zip",
+      "sha256": "e30cce0b3dee256caef4840bcab372ec8d4285faba712646c88e465372c7bc81",
+      "bytes": 9474326
+    },
+    {
+      "id": "zoo-giraffe-elefant",
+      "version": 2,
+      "title": "Zoo – Giraffe und Elefant",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/zoo-giraffe-elefant-v2-webp.zip",
+      "sha256": "882e2066e7d37af2ecef86c1044e13c8d5ab4571537dabe9584cc77ecf8c1772",
+      "bytes": 8539634
+    },
+    {
+      "id": "chuggington-depot",
+      "version": 2,
+      "title": "Chuggington – Freunde im Lokdepot",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/chuggington-depot-v2-webp.zip",
+      "sha256": "04bdee39a2ebc8b8ce5056c36286aa6bd9ddd6b1591baf32acd405b3daf21db9",
+      "bytes": 7827036
+    },
+    {
+      "id": "chuggington-bruecke",
+      "version": 2,
+      "title": "Chuggington – Abenteuer an der Brücke",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/chuggington-bruecke-v2-webp.zip",
+      "sha256": "66900c896a0eaceadabfa3bd95958bfabb556779cef2ffd3eabb5962fb3993fb",
+      "bytes": 9520313
+    },
+    {
+      "id": "chuggington-gueterbahnhof",
+      "version": 3,
+      "title": "Chuggington – Holzladung am Güterkran",
+      "progressRevision": 2,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/chuggington-gueterbahnhof-v3-webp.zip",
+      "sha256": "aeaad5b97edeb9036c702a3daa5e05180772a4eb89bae76780c6f04ec0f31943",
+      "bytes": 9037059
+    },
+    {
+      "id": "weltraum-mondstation",
+      "version": 2,
+      "title": "Weltraum – Werkstatt auf dem Mond",
+      "progressRevision": 1,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/weltraum-mondstation-v2-webp.zip",
+      "sha256": "ee2868575bc0151b9217f5a4844c2ff0b3bdcdb956d4066138cdfb3968d15938",
+      "bytes": 8333921
+    },
+    {
+      "id": "dinosaurier-flussufer",
+      "version": 2,
+      "title": "Dinosaurier – Nest am Farnfluss",
+      "progressRevision": 1,
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/dinosaurier-flussufer-v2-webp.zip",
+      "sha256": "1cdbca2a49125194b2602f5c37c22460a12b030a2f25210168a609659e387369",
+      "bytes": 9254342
+    },
+    {
+      "id": "polar-eisbaeren-eishoehle",
+      "version": 2,
+      "title": "Polartiere – Eisbären an der Lichthöhle",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/polar-eisbaeren-eishoehle-v2-webp.zip",
+      "sha256": "1746c15e2d5d3aebbb6b23d0aa89a90bf0ed6106a1e18e0ef9580060df844e3e",
+      "bytes": 8972530
+    },
+    {
+      "id": "polar-pinguine-eisrutsche",
+      "version": 2,
+      "title": "Polartiere – Pinguine auf der Eisrutsche",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/polar-pinguine-eisrutsche-v2-webp.zip",
+      "sha256": "781058df23d5c157f749aec0e2f476cc71c14712c15dc2c5fa078a282846307b",
+      "bytes": 8394753
+    },
+    {
+      "id": "polar-robben-muschelstrand",
+      "version": 2,
+      "title": "Polartiere – Robben am Muschelstrand",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/polar-robben-muschelstrand-v2-webp.zip",
+      "sha256": "063e01cf122476ffab0f6eb41365b3d45e1e8657aa4949581780fa084009b28b",
+      "bytes": 9500981
+    },
+    {
+      "id": "polar-walrosse-schlitten",
+      "version": 2,
+      "title": "Polartiere – Walrosse und der Proviantschlitten",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/polar-walrosse-schlitten-v2-webp.zip",
+      "sha256": "c904450b9c3211841385cb1268de871eb46280496660276bd34520b43cf12a0b",
+      "bytes": 8337811
+    },
+    {
+      "id": "polar-polarfuechse-schneeule",
+      "version": 2,
+      "title": "Polartiere – Polarfüchse und die Schneeule",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/polar-polarfuechse-schneeule-v2-webp.zip",
+      "sha256": "506b6140cf417149351c660bb3a58a87d4e575444196ebd1ca45189678d846b4",
+      "bytes": 8194062
+    },
+    {
+      "id": "waschbaeren-backstube",
+      "version": 2,
+      "title": "Waschbären in der Backstube",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/waschbaeren-backstube-v2-webp.zip",
+      "sha256": "8fe9dffbe3b647953471d20dd6d30823718c6e98962cfb16370066b8486445fe",
+      "bytes": 8189137
+    },
+    {
+      "id": "katzen-heissluftballon",
+      "version": 2,
+      "title": "Katzen im Heißluftballon",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/katzen-heissluftballon-v2-webp.zip",
+      "sha256": "762adcc79d6e340743d0863a1bc04f5b5d9c8f6d241024df33dfc859a3be8b99",
+      "bytes": 8160235
+    },
+    {
+      "id": "froesche-seerosenkonzert",
+      "version": 2,
+      "title": "Frösche beim Seerosenkonzert",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/froesche-seerosenkonzert-v2-webp.zip",
+      "sha256": "b8bd6ad4951590cc2e3296e343c1ec8e1d2ee6c104836e6ba7f51b2f6891719f",
+      "bytes": 7919050
+    },
+    {
+      "id": "maeuse-uhrenwerkstatt",
+      "version": 2,
+      "title": "Mäuse in der Uhrenwerkstatt",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/maeuse-uhrenwerkstatt-v2-webp.zip",
+      "sha256": "7181922a8ed12cf5bf0b06698bcc3b47980063faddea83fb1c00c96fe7b91cd5",
+      "bytes": 7900538
+    },
+    {
+      "id": "schildkroeten-schatzsuche",
+      "version": 2,
+      "title": "Schildkröten auf Schatzsuche",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/schildkroeten-schatzsuche-v2-webp.zip",
+      "sha256": "a3bc59020c4ae933f32fa87305a1ec3a9ce3084f66b902d7575b18ea70136b9b",
+      "bytes": 9780756
+    },
+    {
+      "id": "fledermaeuse-dachboden",
+      "version": 2,
+      "title": "Fledermäuse auf dem Dachboden",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/fledermaeuse-dachboden-v2-webp.zip",
+      "sha256": "0db886539007661e73b6ee337c76cf337077491f248171c43bf2c2150302214a",
+      "bytes": 8039522
+    },
+    {
+      "id": "krabben-sandburg",
+      "version": 2,
+      "title": "Krabben bauen eine Sandburg",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/krabben-sandburg-v2-webp.zip",
+      "sha256": "2cfadf7f86cf31a67c88f40db13f2feaa6ab47848524b151ddb07c3e3bc74bf4",
+      "bytes": 9825043
+    },
+    {
+      "id": "eichhoernchen-drachen",
+      "version": 2,
+      "title": "Eichhörnchen beim Drachensteigen",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/eichhoernchen-drachen-v2-webp.zip",
+      "sha256": "b8df4828e34f56783650db0ac9dd4483cbea88e15e6c6029c80ce7e7e8071ec2",
+      "bytes": 8488451
+    },
+    {
+      "id": "kaninchen-toepferstube",
+      "version": 2,
+      "title": "Kaninchen in der Töpferstube",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/kaninchen-toepferstube-v2-webp.zip",
+      "sha256": "4ce6cca631f5caeaf86e8f6b549744233a2bbc4729ffc08b511f21530f054002",
+      "bytes": 7905424
+    },
+    {
+      "id": "igel-sternwarte",
+      "version": 2,
+      "title": "Igel in der Sternwarte",
+      "minAppVersionCode": 9,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/igel-sternwarte-v2-webp.zip",
+      "sha256": "5a3d85556fe121e4f501739b9f24f375671dd3882c9ce4f1bec54e8adc98ee9c",
+      "bytes": 8367015
+    }
+  ]
 }
