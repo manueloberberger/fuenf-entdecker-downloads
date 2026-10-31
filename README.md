@@ -1,78 +1,105 @@
-# Fünf Entdecker
+<div align="center">
 
-Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets: zwei Bilder,
-jedes Mal genau fünf Unterschiede, kein Zeitlimit.
+# 🔎 Fünf Entdecker
 
-**[Aktuelle APK herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**Zwei Bilder. Fünf Unterschiede. Ganz ohne Zeitdruck.**
 
-Aktuelle Testversion: **0.4.3**. Der Downloadlink bleibt für zukünftige Versionen gleich.
+Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 
-## Installieren und aktualisieren
+![Android 6+](https://img.shields.io/badge/Android-6%2B-24766c)
+![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
+![45 Motive](https://img.shields.io/badge/Motive-45-efba4e)
 
-1. APK im Elternprofil des Tablets herunterladen und öffnen.
-2. Falls Android oder Fire OS nachfragt, die Installation aus dieser Quelle erlauben.
-3. Ein vorhandenes Spiel regulär aktualisieren. Bilder und Spielstände bleiben dabei erhalten.
+**[1.0-Testkandidat herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v1.0.0-rc.1/Fuenf-Entdecker-1.0.0-rc.1.apk)**
+&nbsp; · &nbsp;
+[Stabile 0.4.3](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)
+&nbsp; · &nbsp;
+[Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 
-Die App benötigt Android 6 oder neuer. Kinderprofile können Installationen
-einschränken. Eine Deinstallation oder das Löschen der Appdaten entfernt die
-heruntergeladenen Bilder und die lokalen Fortschritte.
+<img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
-Die APK ist klein und enthält keine Spielbilder. Beim ersten Start mit Internet
-wird das erste passende Bilderpaket geladen. Weitere Motive kannst du anschließend
-auswählen. Einmal gespeicherte Bilder sind auch ohne Internet spielbar.
+Keine Werbung · Kein Konto · Keine Zeitlimits
 
-## Neu in 0.4.3
+</div>
 
-Die Startseite ist kompakter und lässt mehr Platz für Bilder. Im breiten
-Querformat stehen Profile, Suche und Weiterspielen in einer gemeinsamen Zeile.
+## Spielen und entdecken
 
-## Spielen
+45 Motive mit je einem Original und drei Vergleichsbildern: **180 Spielbilder**, immer mit genau fünf kontrollierten Unterschieden pro Stufe.
 
-- Zwei lokale Profile ab 3 und ab 6 Jahren; jedes mit eigenem Fortschritt und Favoriten.
-- „Suchen“ filtert nach Motivtitel, Thema, offenen/geschafften Rätseln und Favoriten.
-- „Weiterspielen“ öffnet das zuletzt begonnene, noch offene Rätsel des Profils.
-- Beide Bilder erscheinen vollständig und gleich groß: quer nebeneinander, hoch übereinander.
-- Unterschiede in einem der Bilder antippen. Ein Tipp markiert eine offene Stelle und löst sie nicht automatisch.
-- Leicht, Mittel und Knifflig verwenden je Motiv eigene Vergleichsbilder mit fünf Unterschieden.
+- **Zwei lokale Profile:** Entdecker ab 3 und ab 6 Jahren mit getrennten Fortschritten und Favoriten.
+- **Drei Stufen:** Leicht, Mittel und Knifflig – jede mit eigenen Fehlerstellen.
+- **Vollständige Bilder:** quer nebeneinander, hoch untereinander, auf beiden Seiten gleich groß.
+- **In Ruhe suchen:** kein Countdown und kein automatisches Lösen.
+- **Offline weiterspielen:** einmal geladene Bilder bleiben auf dem Tablet gespeichert.
 
-## Elternbereich und Downloads
+Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Neu dabei: Drachensteigen, Töpferstube und Sternwarte.
 
-„Eltern“ **zwei Sekunden gedrückt halten**. Dort findest du:
+## Neu im 1.0-Testkandidaten
 
-- **Bilder & Speicher:** gespeicherte Bilder suchen, sichtbare Treffer auswählen, Favoriten setzen, entfernen oder erneut laden. Spielstände bleiben beim Entfernen standardmäßig erhalten.
-- **Profile & Spiel:** Schwierigkeit, Töne, Touchflächen, Animationen und Hinweise einstellen; Fortschritte gezielt zurücksetzen.
-- **App & Updates:** neue Bilder suchen und ein verfügbares App-Update direkt laden.
+| Verbesserung | Im Alltag |
+| --- | --- |
+| Verlustfreie WebP-Bilder | Alle 45 Bilderpakete zusammen **38,37 % kleiner** – bei identischen Vollbildpixeln. |
+| Schnellerer Inhaltsstart | Ein dauerhafter Inhaltsindex vermeidet wiederholtes vollständiges Hashen aller Originale. |
+| Verlässliches Laden | Treffer und Tipps werden erst aktiv, wenn beide Spielbilder vollständig bereit sind. |
+| Fortsetzbare Downloads | Fertige Pakete bleiben gespeichert; offene Aufträge lassen sich nach einem Neustart manuell fortsetzen. |
+| Fünf Sammelsterne | Jeder gefundene Unterschied füllt einen Stern. |
+| Tipps in zwei Schritten | Erst eine größere Suchregion, beim nächsten Tipp die genaue Stelle. |
+| Klare Auswahl | Themen mit Symbolen, sichtbare Filter und eine direkte Rücksetz-Aktion. |
+| 🎲 Überrasche mich | Ein zufälliges offenes Rätsel aus der aktuellen Themen-, Such- oder Favoritenauswahl. |
+| Passendes Weiterspielen | „Weiter“ und „Weiterspielen“ bleiben innerhalb der gewählten Auswahl. |
+| Eigene Sicherungsdatei | Beide Profile samt Fortschritten, Favoriten und Einstellungen exportieren und wiederherstellen. |
+| Bessere Zugänglichkeit | Größere Systemschrift, zugängliche Bedienelemente und Scrollaktionen. |
 
-„Neue Bilder laden“ öffnet den Katalog. „Alle neuen Bilder laden“ zeigt Anzahl
-und Größe vor der Bestätigung. Bereits gespeicherte oder bewusst entfernte Motive
-werden beim Sammeldownload ausgelassen. Entfernte Bilder lassen sich einzeln erneut
-laden. Bei Abbruch bleiben fertige Downloads erhalten.
+**Status:** 1.0.0-rc.1 ist der geprüfte Kandidat für die Abnahme am echten Fire-Tablet. Die stabile Version bleibt bis dahin 0.4.3. Die automatisierten Prüfungen laufen in lokalen Android-Emulatoren; ein echter Fire-Gerätetest wird dadurch nicht ersetzt.
 
-Neue Bilder und App-Updates erscheinen zusätzlich als antippbarer Hinweis auf
-der Startseite. Android bestätigt die Installation eines App-Updates selbst.
+## Installieren oder aktualisieren
 
-## 45 Motive · 180 Spielbilder
+1. Die gewünschte APK im **Elternprofil** des Tablets herunterladen und öffnen.
+2. Die Installation aus dieser Quelle freigeben, wenn Android oder Fire OS danach fragt.
+3. Eine vorhandene Installation als **normales App-Update** aktualisieren. Bilder und beide Spielstände bleiben erhalten.
+4. Die App starten und angebotene **Bildaktualisierungen** laden.
 
-Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe, Feuerwehrmann Sam,
-Baustelle und Fahrzeuge, Biber und Zoo, Chuggington, Weltraum, Dinosaurier,
-fünf Polartier-Motive sowie Waschbären, Katzen, Frösche, Mäuse und Schildkröten.
-Außerdem Fledermäuse auf dem Dachboden und Krabben beim Sandburgbauen.
-Neu: Eichhörnchen beim Drachensteigen, Kaninchen in der Töpferstube und Igel
-in der Sternwarte.
-Je Motiv ein Original und drei retuschierte Vergleichsbilder. Beide Profile
-verwenden denselben Bilderbestand und speichern getrennte Fortschritte.
-Der Bilderbestand bleibt beim App-Update auf 0.4.3 unverändert.
+Bei einer Neuinstallation lädt die App mit Internet zunächst ein passendes Motiv. Weitere Bilder lassen sich anschließend einzeln oder gemeinsam laden. Die APK selbst enthält keine Spielbilder.
 
-## Schutz
+Fire-Kinderprofile können Installationen und Dateiauswahl einschränken. Installation und Freigaben erfolgen daher im Elternprofil.
 
-Keine Werbung, keine Anmeldung und keine Übertragung von Spielständen.
-Downloads kommen ausschließlich aus dem festgelegten GitHub-Bereich. Die App
-prüft Katalogsignatur, Prüfsummen, Paketinhalt und den bisherigen APK-Herausgeber.
+### PNG und WebP – automatisch passend
 
-Hier liegen ausschließlich fertige APKs, Bilderpakete, Prüfsummen, der öffentliche
-Prüfschlüssel und der signierte Katalog. Quellen bleiben separat privat.
-Keine privaten Signierschlüssel oder persönlichen Spielstände.
+- **Neue Installation der 1.0:** Für die vorhandenen 45 Motive lädt die App ausschließlich WebP.
+- **Vorhandene PNG-Bilder:** Sie bleiben nach dem App-Update sofort spielbar. Beim Laden der Bildaktualisierungen prüft die App das neue Paket und entfernt anschließend die alten lokalen PNG. Danach liegt das Motiv einmal als WebP auf dem Tablet.
+- **Ältere Apps:** Sie lesen weiterhin den PNG-Katalog. Alle bisherigen PNG-Downloads bleiben online.
 
-Die automatisierten Prüfungen und Sichtkontrollen laufen im lokalen Android-
-Emulator. Fire OS, Kinderprofil, echter Stift und der vollständige Updateablauf
-werden zusätzlich auf dem tatsächlichen Tablet getestet.
+Vor dem Update können die vorhandenen Bilder auf dem Tablet bleiben. Während der Paketprüfung wird vorübergehend Platz für alte Bilder, Download und neue Dateien benötigt. Bei einem Fehler bleiben die funktionierenden Bilder erhalten.
+
+**Gesamter Downloadbestand:** 612,8 MB PNG → 377,7 MB WebP. Keine Auflösungsreduktion und keine verlustbehaftete Kompression.
+
+## Elternbereich, Updates und Sicherung
+
+**„Eltern“ zwei Sekunden gedrückt halten.**
+
+| Bereich | Möglichkeiten |
+| --- | --- |
+| **Bilder & Speicher** | Gespeicherte Motive suchen, auswählen, als Favoriten merken, entfernen oder gezielt erneut laden. |
+| **Profile & Spiel** | Profil, Schwierigkeit, Töne, Touchflächen und Tipps einstellen; Fortschritt gezielt zurücksetzen; beide Profile sichern. |
+| **App & Updates** | Neue Inhalte suchen, Bildpakete laden, pausierte Downloads fortsetzen und App-Updates vorbereiten. |
+
+Beim Start sucht die App im Hintergrund nach neuen Bildern und App-Versionen. Ein Hinweis führt direkt zu den angebotenen Downloads. Ein App-Update wird nach Bestätigung geladen; **Android bestätigt die Installation selbst**.
+
+### Spielstände sichern
+
+Unter **Profile & Spiel → Spielstände beider Profile sichern** wählst du selbst eine Datei aus. Sie enthält beide Profile, Treffer aller drei Stufen, Favoriten und Spieleinstellungen. Spielbilder und APKs gehören nicht zur Sicherungsdatei.
+
+**„Spielstände aus Datei wiederherstellen“** prüft die gewählte Datei vollständig. Erst nach deiner Bestätigung ersetzt die App die Spielstände und Einstellungen beider Profile. Fehlende Bilder lassen sich getrennt nachladen.
+
+Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicherten Bilder und Fortschritte. Eine eigene Sicherungsdatei bewahrst du außerhalb der App auf.
+
+## Schutz und geprüfte Downloads
+
+Keine Anmeldung, keine Werbung und kein automatischer Versand von Spielständen.
+
+- Downloads ausschließlich aus dem festgelegten GitHub-Bereich.
+- Signierter Katalog, SHA-256-Prüfsummen und begrenzte, geprüfte Bilderpakete.
+- App-Updates nur mit passender Paketkennung, höherer Version und demselben Herausgeber.
+- Spielstände bleiben bei regulären App- und identischen Bildformat-Updates erhalten.
+
+Hier liegen fertige Downloads, der signierte Katalog und diese Dokumentation. Die Entwicklungsquellen und privaten Signierschlüssel werden getrennt aufbewahrt.
