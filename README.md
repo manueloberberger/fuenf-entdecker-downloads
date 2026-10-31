@@ -10,9 +10,9 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![45 Motive](https://img.shields.io/badge/Motive-45-efba4e)
 
-**[1.0-Testkandidat herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v1.0.0-rc.1/Fuenf-Entdecker-1.0.0-rc.1.apk)**
+**[Version 1.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
-[Stabile 0.4.3](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)
+[Vorherige 0.4.3](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/v0.4.3/Fuenf-Entdecker-0.4.3.apk)
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 
@@ -34,7 +34,7 @@ Keine Werbung · Kein Konto · Keine Zeitlimits
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Neu dabei: Drachensteigen, Töpferstube und Sternwarte.
 
-## Neu im 1.0-Testkandidaten
+## Neu in Version 1.0
 
 | Verbesserung | Im Alltag |
 | --- | --- |
@@ -50,7 +50,7 @@ Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum 
 | Eigene Sicherungsdatei | Beide Profile samt Fortschritten, Favoriten und Einstellungen exportieren und wiederherstellen. |
 | Bessere Zugänglichkeit | Größere Systemschrift, zugängliche Bedienelemente und Scrollaktionen. |
 
-**Status:** 1.0.0-rc.1 ist der geprüfte Kandidat für die Abnahme am echten Fire-Tablet. Die stabile Version bleibt bis dahin 0.4.3. Die automatisierten Prüfungen laufen in lokalen Android-Emulatoren; ein echter Fire-Gerätetest wird dadurch nicht ersetzt.
+**Status:** Version 1.0 ist regulär freigegeben und wird über die vorhandene Updateprüfung angeboten. Funktionen, Bilder, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
 
 ## Installieren oder aktualisieren
 
