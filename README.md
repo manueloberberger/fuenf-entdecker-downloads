@@ -51,12 +51,14 @@ laden. Bei Abbruch bleiben fertige Downloads erhalten.
 Neue Bilder und App-Updates erscheinen zusätzlich als antippbarer Hinweis auf
 der Startseite. Android bestätigt die Installation eines App-Updates selbst.
 
-## 42 Motive · 168 Spielbilder
+## 45 Motive · 180 Spielbilder
 
 Paw Patrol, Super Wings, Biene Maja, Heidi, die Schlümpfe, Feuerwehrmann Sam,
 Baustelle und Fahrzeuge, Biber und Zoo, Chuggington, Weltraum, Dinosaurier,
 fünf Polartier-Motive sowie Waschbären, Katzen, Frösche, Mäuse und Schildkröten.
-Neu: Fledermäuse auf dem Dachboden und Krabben bauen eine Sandburg.
+Außerdem Fledermäuse auf dem Dachboden und Krabben beim Sandburgbauen.
+Neu: Eichhörnchen beim Drachensteigen, Kaninchen in der Töpferstube und Igel
+in der Sternwarte.
 Je Motiv ein Original und drei retuschierte Vergleichsbilder. Beide Profile
 verwenden denselben Bilderbestand und speichern getrennte Fortschritte.
 Der Bilderbestand bleibt beim App-Update auf 0.4.3 unverändert.

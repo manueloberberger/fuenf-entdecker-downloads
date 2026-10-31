@@ -387,6 +387,33 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v8/krabben-sandburg-v1.zip",
       "sha256": "b33c9fd3297587515c93453b6a0ae0d62edc1a46a2183a5d52c40a615e7fb5ed",
       "bytes": 15269289
+    },
+    {
+      "id": "eichhoernchen-drachen",
+      "version": 1,
+      "title": "Eichhörnchen beim Drachensteigen",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v9/eichhoernchen-drachen-v1.zip",
+      "sha256": "7887e63027bcc53e06312e263f58495b61dcdbe6330b952e8beecd2027045ac6",
+      "bytes": 13574919
+    },
+    {
+      "id": "kaninchen-toepferstube",
+      "version": 1,
+      "title": "Kaninchen in der Töpferstube",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v9/kaninchen-toepferstube-v1.zip",
+      "sha256": "1b273a3b8afb25e0f3565dc06e46df6a5fabcb8f73c98ddd4c6ac9b7bab48793",
+      "bytes": 13180873
+    },
+    {
+      "id": "igel-sternwarte",
+      "version": 1,
+      "title": "Igel in der Sternwarte",
+      "minAppVersionCode": 3,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v9/igel-sternwarte-v1.zip",
+      "sha256": "cdb5730264248a5e40b811324515de7ca2818935303560f98450dc4899ebb523",
+      "bytes": 13379901
     }
   ],
   "app": {
