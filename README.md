@@ -20,6 +20,10 @@ Keine Werbung · Kein Konto · Keine Zeitlimits
 
 </div>
 
+## Schnellstart
+
+APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. Danach sind geladene Motive offline spielbar. Vor dem Löschen der Appdaten beide Spielstände im Elternbereich in eine eigene Datei sichern.
+
 ## Spielen und entdecken
 
 45 Motive mit je einem Original und drei Vergleichsbildern: **180 Spielbilder**, immer mit genau fünf kontrollierten Unterschieden pro Stufe.
@@ -107,3 +111,8 @@ Keine Anmeldung, keine Werbung und kein automatischer Versand von Spielständen.
 - Spielstände bleiben bei regulären App- und identischen Bildformat-Updates erhalten.
 
 Hier liegen fertige Downloads, der signierte Katalog und diese Dokumentation. Die Entwicklungsquellen und privaten Signierschlüssel werden getrennt aufbewahrt.
+
+
+## Downloadbereich und Rückmeldungen
+
+Dieses öffentliche Repository enthält ausschließlich fertige Downloads, den signierten Inhaltskatalog und die zugehörige Dokumentation. Es ist kein Quellcode-Repository. Bei Rückmeldungen App-Version, Android-/Fire-OS-Version und die beobachteten Schritte nennen; keine Kindernamen, Fotos oder Sicherungsdateien öffentlich teilen.
