@@ -8,7 +8,7 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 
 ![Android 6+](https://img.shields.io/badge/Android-6%2B-24766c)
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
-![45 Motive](https://img.shields.io/badge/Motive-45-efba4e)
+![50 Motive](https://img.shields.io/badge/Motive-50-efba4e)
 
 **[Version 1.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
@@ -26,7 +26,7 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 
 ## Spielen und entdecken
 
-45 Motive mit je einem Original und drei Vergleichsbildern: **180 Spielbilder**, immer mit genau fünf kontrollierten Unterschieden pro Stufe.
+50 Motive mit je einem Original und drei Vergleichsbildern: **200 Spielbilder**, immer mit genau fünf kontrollierten Unterschieden pro Stufe.
 
 - **Zwei lokale Profile:** Entdecker ab 3 und ab 6 Jahren mit getrennten Fortschritten und Favoriten.
 - **Drei Stufen:** Leicht, Mittel und Knifflig – jede mit eigenen Fehlerstellen.
@@ -34,13 +34,13 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 - **In Ruhe suchen:** kein Countdown und kein automatisches Lösen.
 - **Offline weiterspielen:** einmal geladene Bilder bleiben auf dem Tablet gespeichert.
 
-Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Neu dabei: Drachensteigen, Töpferstube und Sternwarte.
+Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Neu dabei: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
 
 ## Neu in Version 1.0
 
 | Verbesserung | Im Alltag |
 | --- | --- |
-| Verlustfreie WebP-Bilder | Alle 45 Bilderpakete zusammen **38,37 % kleiner** – bei identischen Vollbildpixeln. |
+| Verlustfreie WebP-Bilder | Die ursprünglichen 45 Bilderpakete zusammen **38,37 % kleiner** – bei identischen Vollbildpixeln. |
 | Schnellerer Inhaltsstart | Ein dauerhafter Inhaltsindex vermeidet wiederholtes vollständiges Hashen aller Originale. |
 | Verlässliches Laden | Treffer und Tipps werden erst aktiv, wenn beide Spielbilder vollständig bereit sind. |
 | Fortsetzbare Downloads | Fertige Pakete bleiben gespeichert; offene Aufträge lassen sich nach einem Neustart manuell fortsetzen. |
@@ -67,13 +67,13 @@ Fire-Kinderprofile können Installationen und Dateiauswahl einschränken. Instal
 
 ### PNG und WebP – automatisch passend
 
-- **Neue Installation der 1.0:** Für die vorhandenen 45 Motive lädt die App ausschließlich WebP.
+- **Neue Installation der 1.0:** Für alle 50 Motive lädt die App ausschließlich WebP.
 - **Vorhandene PNG-Bilder:** Sie bleiben nach dem App-Update sofort spielbar. Beim Laden der Bildaktualisierungen prüft die App das neue Paket und entfernt anschließend die alten lokalen PNG. Danach liegt das Motiv einmal als WebP auf dem Tablet.
 - **Ältere Apps:** Sie lesen weiterhin den PNG-Katalog. Alle bisherigen PNG-Downloads bleiben online.
 
 Vor dem Update können die vorhandenen Bilder auf dem Tablet bleiben. Während der Paketprüfung wird vorübergehend Platz für alte Bilder, Download und neue Dateien benötigt. Bei einem Fehler bleiben die funktionierenden Bilder erhalten.
 
-**Gesamter Downloadbestand:** 612,8 MB PNG → 377,7 MB WebP. Keine Auflösungsreduktion und keine verlustbehaftete Kompression.
+**Die ursprünglichen 45 Motive:** 612,8 MB PNG → 377,7 MB WebP. Die fünf neuen WebP-Pakete ergänzen rund 51,8 MB. Keine Auflösungsreduktion und keine verlustbehaftete Kompression.
 
 ## Elternbereich, Updates und Sicherung
 
@@ -99,7 +99,7 @@ Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicher
 
 Öffentlich steht die aktuelle **Version 1.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
 
-Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 45 WebP-Pakete für Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
+Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 50 WebP-Pakete für Version 1.0. Die fünf neuen Motive benötigen mindestens App-Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
 
 ## Schutz und geprüfte Downloads
 

@@ -838,6 +838,56 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-webp-v1/igel-sternwarte-v2-webp.zip",
       "sha256": "5a3d85556fe121e4f501739b9f24f375671dd3882c9ce4f1bec54e8adc98ee9c",
       "bytes": 8367015
+    },
+    {
+      "id": "otter-wassermuehle",
+      "version": 1,
+      "title": "Otter an der Wassermühle",
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/otter-wassermuehle-v1-webp.zip",
+      "sha256": "986f08c2ca318e052b857b120a5133dea2ad1079dd1b793dbb2c58613e65d07d",
+      "bytes": 10542822
+    },
+    {
+      "id": "pandas-bambuspicknick",
+      "version": 1,
+      "title": "Pandas beim Bambus-Picknick",
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/pandas-bambuspicknick-v1-webp.zip",
+      "sha256": "668290d41c397bdca41a9a0a8416fcd4550a5cf6d717fd1d763cea241d07b043",
+      "bytes": 10092627
+    },
+    {
+      "id": "fuechse-apfelmost",
+      "version": 1,
+      "title": "Füchse beim Apfelmosten",
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/fuechse-apfelmost-v1-webp.zip",
+      "sha256": "e07a6e8b4b87fd6f4692e944aacf8b5d997d1b9e9212c149a05b478638184b36",
+      "bytes": 10396703
+    },
+    {
+      "id": "koalas-baumhauspost",
+      "version": 1,
+      "title": "Koalas in der Baumhaus-Poststation",
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/koalas-baumhauspost-v1-webp.zip",
+      "sha256": "cab005963ce808851c96461c024fbbf12ee8f59a48a74175216882a564b0f0bb",
+      "bytes": 10499358
+    },
+    {
+      "id": "erdmaennchen-ausgrabung",
+      "version": 1,
+      "title": "Erdmännchen bei der Ausgrabung",
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/erdmaennchen-ausgrabung-v1-webp.zip",
+      "sha256": "62f08f3da66111aa761b0d0d368bacdf92b4c74551c20f85a810ce8c9d58d652",
+      "bytes": 10314128
     }
   ]
 }
