@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "project": "fuenf-entdecker-downloads",
+  "repository": "manueloberberger/fuenf-entdecker-downloads",
+  "kind": "data",
+  "components": [],
+  "tools": [
+    "git",
+    "gh",
+    "python3"
+  ],
+  "setup": [],
+  "verify": [
+    "source-check"
+  ],
+  "related": [],
+  "manual": [],
+  "backupRepository": "manueloberberger/project-vault-recovery"
+}
