@@ -10,9 +10,11 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![50 Motive](https://img.shields.io/badge/Motive-50-efba4e)
 
-**[Version 1.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.1 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
+&nbsp; · &nbsp;
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.1.0.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
@@ -36,7 +38,19 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Neu dabei: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
 
-## Neu in Version 1.0
+## Neu in Version 1.1
+
+- **Beide Bilder gemeinsam vergrößern:** Zweifingergeste oder Zoom-Schaltfläche, bis dreifach, mit Verschieben und „Ganzes Bild“.
+- **Hilfen pro Profil:** Tipps und Zoom standardmäßig an und abschaltbar. Großzügigere Trefferflächen optional.
+- **Schneller zum passenden Motiv:** Themen mit Vorschaubildern, „Neueste Motive zuerst“, „Noch nicht begonnen“ und „Neu“.
+- **Drei Stufen im Blick:** Fortschritte für Leicht, Mittel und Knifflig direkt auf jeder Bildkarte.
+- **Robustere Bilddownloads:** Wiederholungen bei kurzen Verbindungsfehlern und Fortsetzung geladener Dateiteile sowie ein offizieller GitHub-Ausweichweg bei Serverfehlern.
+
+Alle 50 Motive bleiben unverändert. Das normale App-Update erhält Bilder und Spielstände beider Profile. Ein erneuter Download der Bilder ist für Version 1.1 nicht erforderlich.
+
+Tipps und Zoom stellst du unter **Eltern → Profile & Spiel** ein. „Neueste Motive zuerst“ findest du unter **Suchen → Reihenfolge**.
+
+## Seit Version 1.0
 
 | Verbesserung | Im Alltag |
 | --- | --- |
@@ -52,7 +66,7 @@ Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum 
 | Eigene Sicherungsdatei | Beide Profile samt Fortschritten, Favoriten und Einstellungen exportieren und wiederherstellen. |
 | Bessere Zugänglichkeit | Größere Systemschrift, zugängliche Bedienelemente und Scrollaktionen. |
 
-**Status:** Version 1.0 ist regulär freigegeben und wird über die vorhandene Updateprüfung angeboten. Funktionen, Bilder, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
+**Status:** Version 1.1 ist regulär freigegeben und wird über die vorhandene Updateprüfung angeboten. Funktionen, Bilder, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
 
 ## Installieren oder aktualisieren
 
@@ -97,7 +111,7 @@ Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicher
 
 ## Veröffentlichungen und Rückfallversion
 
-Öffentlich steht die aktuelle **Version 1.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
+Öffentlich steht die aktuelle **Version 1.1** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
 
 Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 50 WebP-Pakete für Version 1.0. Die fünf neuen Motive benötigen mindestens App-Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
 
