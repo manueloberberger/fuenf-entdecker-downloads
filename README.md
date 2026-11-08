@@ -10,11 +10,11 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![50 Motive](https://img.shields.io/badge/Motive-50-efba4e)
 
-**[Version 1.1 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.1.1 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 &nbsp; · &nbsp;
-[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.1.0.apk)
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.1.1.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
