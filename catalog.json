@@ -464,6 +464,16 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/erdmaennchen-ausgrabung-v1-webp.zip",
       "sha256": "62f08f3da66111aa761b0d0d368bacdf92b4c74551c20f85a810ce8c9d58d652",
       "bytes": 10314128
+    },
+    {
+      "id": "dachse-in-der-schneiderei-0bc35750",
+      "title": "Dachse in der Schneiderei",
+      "version": 1,
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e99674fb-36a5-4997-ab8c-8e7f5b12ee4d/dachse-in-der-schneiderei-0bc35750-v1-webp.zip",
+      "sha256": "8c074a830a852723d679c6b91ffc7db81fffff94b6aa32e08e0a135b1abb4398",
+      "bytes": 9745391
     }
   ],
   "app": {
@@ -938,6 +948,16 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-v10/erdmaennchen-ausgrabung-v1-webp.zip",
       "sha256": "62f08f3da66111aa761b0d0d368bacdf92b4c74551c20f85a810ce8c9d58d652",
       "bytes": 10314128
+    },
+    {
+      "id": "dachse-in-der-schneiderei-0bc35750",
+      "title": "Dachse in der Schneiderei",
+      "version": 1,
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e99674fb-36a5-4997-ab8c-8e7f5b12ee4d/dachse-in-der-schneiderei-0bc35750-v1-webp.zip",
+      "sha256": "8c074a830a852723d679c6b91ffc7db81fffff94b6aa32e08e0a135b1abb4398",
+      "bytes": 9745391
     }
   ]
 }
