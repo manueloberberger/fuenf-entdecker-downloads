@@ -474,6 +474,26 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e99674fb-36a5-4997-ab8c-8e7f5b12ee4d/dachse-in-der-schneiderei-0bc35750-v1-webp.zip",
       "sha256": "8c074a830a852723d679c6b91ffc7db81fffff94b6aa32e08e0a135b1abb4398",
       "bytes": 9745391
+    },
+    {
+      "id": "hamster-im-gewachshaus-124d72dc",
+      "title": "Hamster im Gewächshaus",
+      "version": 1,
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e63d4057-2cdb-4559-a64a-c3a902d80a26/hamster-im-gewachshaus-124d72dc-v1-webp.zip",
+      "sha256": "e601f511c32352a3fef68e89fdaef0391b3c62c892566fd853f93ebfa3da5a9b",
+      "bytes": 9327369
+    },
+    {
+      "id": "papageien-im-freiluftkino-bc218bea",
+      "title": "Papageien im Freiluftkino",
+      "version": 1,
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e63d4057-2cdb-4559-a64a-c3a902d80a26/papageien-im-freiluftkino-bc218bea-v1-webp.zip",
+      "sha256": "fa40996c24606f7b7f31dbb3ffcc9b35c62f02b51552b6a7df42405f3c3e0ea7",
+      "bytes": 9916003
     }
   ],
   "app": {
@@ -958,6 +978,26 @@
       "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e99674fb-36a5-4997-ab8c-8e7f5b12ee4d/dachse-in-der-schneiderei-0bc35750-v1-webp.zip",
       "sha256": "8c074a830a852723d679c6b91ffc7db81fffff94b6aa32e08e0a135b1abb4398",
       "bytes": 9745391
+    },
+    {
+      "id": "hamster-im-gewachshaus-124d72dc",
+      "title": "Hamster im Gewächshaus",
+      "version": 1,
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e63d4057-2cdb-4559-a64a-c3a902d80a26/hamster-im-gewachshaus-124d72dc-v1-webp.zip",
+      "sha256": "e601f511c32352a3fef68e89fdaef0391b3c62c892566fd853f93ebfa3da5a9b",
+      "bytes": 9327369
+    },
+    {
+      "id": "papageien-im-freiluftkino-bc218bea",
+      "title": "Papageien im Freiluftkino",
+      "version": 1,
+      "minAppVersionCode": 9,
+      "progressRevision": 1,
+      "url": "https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/download/bilder-app-e63d4057-2cdb-4559-a64a-c3a902d80a26/papageien-im-freiluftkino-bc218bea-v1-webp.zip",
+      "sha256": "fa40996c24606f7b7f31dbb3ffcc9b35c62f02b51552b6a7df42405f3c3e0ea7",
+      "bytes": 9916003
     }
   ]
 }
