@@ -10,11 +10,11 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![55 Motive](https://img.shields.io/badge/Motive-55-efba4e)
 
-**[Version 1.2.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.2.1 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 &nbsp; · &nbsp;
-[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.2.0.apk)
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.2.1.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
@@ -37,6 +37,10 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 - **Offline weiterspielen:** einmal geladene Bilder bleiben auf dem Tablet gespeichert.
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Dazu gehören: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
+
+## Neu in Version 1.2.1
+
+Der Suchen-/Filterknopf zeigt die Anzahl der angezeigten Motive dauerhaft direkt in der Bildauswahl, auch bei aktiven Filtern und auf schmalen Bildschirmen. Die zweite Zeile im vorhandenen Knopf zeigt beispielsweise „8 von 55“, bei wenig Platz „8/55“. Es entsteht keine zusätzliche Bedienzeile. Die Gesamtzahl bezieht sich auf die auf diesem Gerät gespeicherten Motive.
 
 ## Neu in Version 1.2
 
