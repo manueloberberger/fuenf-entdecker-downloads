@@ -10,11 +10,11 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![55 Motive](https://img.shields.io/badge/Motive-55-efba4e)
 
-**[Version 1.2.2 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.3.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 &nbsp; · &nbsp;
-[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.2.2.apk)
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.3.0.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
@@ -38,7 +38,7 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Dazu gehören: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
 
-## Neu in Version 1.2.2
+## Neu in Version 1.3.0
 
 Suchen/Filter und Weiter verwenden wieder die normale, einzeilige und mittig zentrierte Buttonschrift. Der Filterknopf zeigt dauerhaft die Anzahl, etwa „Filter · 8/55“, und Weiter die Trefferzahl, etwa „Weiter · 3/5“. Bei wenig Platz werden die Beschriftungen kompakt dargestellt. Die Gesamtzahl bezieht sich auf die auf diesem Gerät gespeicherten Motive.
 
@@ -142,3 +142,7 @@ Hier liegen fertige Downloads, der signierte Katalog und diese Dokumentation. Di
 ## Downloadbereich und Rückmeldungen
 
 Dieses öffentliche Repository enthält ausschließlich fertige Downloads, den signierten Inhaltskatalog und die zugehörige Dokumentation. Es ist kein Quellcode-Repository. Bei Rückmeldungen App-Version, Android-/Fire-OS-Version und die beobachteten Schritte nennen; keine Kindernamen, Fotos oder Sicherungsdateien öffentlich teilen.
+
+## Neu in 1.3
+
+Optional unter **Eltern → Profile & Spiel → Kontrastreiche Bedienung**: deutlichere Schaltflächen und Beschriftungen, getrennt je Profil. Spielbilder und Fortschritte bleiben erhalten. Auf dem Tablet unter **App & Updates** aktualisieren.
