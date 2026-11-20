@@ -10,11 +10,11 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![55 Motive](https://img.shields.io/badge/Motive-55-efba4e)
 
-**[Version 1.3.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.4.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 &nbsp; · &nbsp;
-[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.3.0.apk)
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.4.0.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
@@ -38,9 +38,17 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Dazu gehören: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
 
+## Neu in Version 1.4.0
+
+**Die Oberfläche selbst anpassen:** Unter **Eltern → Darstellung & Funktionen** lassen sich 16 Elemente getrennt pro Profil ein- oder ausblenden. Standardmäßig bleibt alles sichtbar. Die feste **Menü**-Schaltfläche hält ausgeblendete Funktionen erreichbar, darunter Profil-/Stufenwahl, Suche und Filter, Weiterspielen, Zufall, Favoritenverwaltung, Fortschritte sowie erlaubte Tipps und Zoom. Bilder und Updates bleiben ebenfalls im Menü erreichbar.
+
+Bedienelemente rücken zusammen, Bildkarten werden bei ausgeblendeten Fortschritten kürzer und die Spielbilder nutzen freien Platz. „Einfache Ansicht verwenden“ bietet eine reduzierte Auswahl; „Alle Elemente wieder anzeigen“ stellt die vollständige Anzeige wieder her. Beide ändern nur die Darstellung des aktuellen Profils. Die Auswahl wird mit den Spielständen gesichert.
+
+Tipps und Zoom können unter **Profile & Spiel** weiterhin vollständig abgeschaltet werden. Dann erscheinen sie auch im Menü nicht. Ausblenden eines Knopfs allein deaktiviert die Funktion nicht. Aktive Filter bleiben erhalten und können im Menü zurückgesetzt werden. Ein normales Update erhält alle Bilder und Spielstände.
+
 ## Neu in Version 1.3.0
 
-Suchen/Filter und Weiter verwenden wieder die normale, einzeilige und mittig zentrierte Buttonschrift. Der Filterknopf zeigt dauerhaft die Anzahl, etwa „Filter · 8/55“, und Weiter die Trefferzahl, etwa „Weiter · 3/5“. Bei wenig Platz werden die Beschriftungen kompakt dargestellt. Die Gesamtzahl bezieht sich auf die auf diesem Gerät gespeicherten Motive.
+Optionale kontrastreiche Bedienung im Elternbereich, getrennt je Profil und in der Spielstandsicherung enthalten. Dunklere Beschriftungen und klar umrandete Schaltflächen lassen sich unter **Profile & Spiel → Kontrastreiche Bedienung** einschalten. Spielbilder und Trefferstellen bleiben unverändert.
 
 ## Neu in Version 1.2
 
@@ -78,7 +86,7 @@ Tipps und Zoom stellst du unter **Eltern → Profile & Spiel** ein. „Neueste M
 | Eigene Sicherungsdatei | Beide Profile samt Fortschritten, Favoriten und Einstellungen exportieren und wiederherstellen. |
 | Bessere Zugänglichkeit | Größere Systemschrift, zugängliche Bedienelemente und Scrollaktionen. |
 
-**Status:** Version 1.2 ist regulär freigegeben und wird über die vorhandene Updateprüfung angeboten. Funktionen, Bilder, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
+**Status:** Version 1.4.0 wird über die vorhandene Updateprüfung angeboten. Funktionen, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
 
 ## Installieren oder aktualisieren
 
@@ -123,7 +131,7 @@ Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicher
 
 ## Veröffentlichungen und Rückfallversion
 
-Öffentlich steht die aktuelle **Version 1.2** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
+Öffentlich steht die aktuelle **Version 1.4.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
 
 Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 55 WebP-Pakete für Version 1.0. Die fünf neuen Motive benötigen mindestens App-Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
 
