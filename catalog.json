@@ -517,12 +517,12 @@
     }
   ],
   "app": {
-    "versionCode": 18,
-    "versionName": "1.4.0",
+    "versionCode": 19,
+    "versionName": "1.5.0",
     "minSdk": 23,
-    "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.4.0.apk",
-    "sha256": "44ec82b650f7e80017ad2e1c270eab8d4ea92afd2ca3630eac37b44781354a03",
-    "bytes": 111146
+    "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.5.0.apk",
+    "sha256": "6a8a53ede90b80f588559b115c3ae4e8760cc2ea295c17bbf3ebf7e7fb986040",
+    "bytes": 123434
   },
   "webpPacks": [
     {
@@ -1039,5 +1039,447 @@
       "sha256": "bbc15ade29ab9c5383cad6faaa2b4cd7c7bc2fd552856ebca0a0524446ddb44a",
       "bytes": 8654178
     }
-  ]
+  ],
+  "previews": {
+    "winter-ocean": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/winter-ocean-6956b7f680ce.jpg",
+      "sha256": "6956b7f680cea4eaec256bc1b9fef1cf63185c51d7aada3a5da651e70edc5d37",
+      "bytes": 78893,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Paw Patrol"
+    },
+    "biene-maja-garten": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/biene-maja-garten-39c0d93e3aa1.jpg",
+      "sha256": "39c0d93e3aa15e0c3afbeb9e54babd0bfbb201d992222c60219b8372242eb342",
+      "bytes": 87161,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Biene Maja"
+    },
+    "biene-maja-teich": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/biene-maja-teich-9ee287d76791.jpg",
+      "sha256": "9ee287d7679119cc8e12c790a68239eebee3ae957b13272d90131c9b330447a1",
+      "bytes": 86035,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Biene Maja"
+    },
+    "biene-maja-wiese": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/biene-maja-wiese-82dbd4ae3c4c.jpg",
+      "sha256": "82dbd4ae3c4c70e977586e822decf84627b8b6b15951e277c8d44048916693cc",
+      "bytes": 74140,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Biene Maja"
+    },
+    "feuerwehrmann-sam-hafen": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/feuerwehrmann-sam-hafen-70faf4f21eb2.jpg",
+      "sha256": "70faf4f21eb20367f2bff578829a98849b6a229f38072c58c210938e3ef5d0e5",
+      "bytes": 81931,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Feuerwehrmann Sam"
+    },
+    "feuerwehrmann-sam-wache": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/feuerwehrmann-sam-wache-349b7aee3b32.jpg",
+      "sha256": "349b7aee3b32d2495ea5508e140e43a183ab7016566f39f3329c6fef5e87ad5b",
+      "bytes": 71763,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Feuerwehrmann Sam"
+    },
+    "feuerwehrmann-sam-wald": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/feuerwehrmann-sam-wald-f6343e807161.jpg",
+      "sha256": "f6343e80716139b80f4e894bfee8cc5cc7c57d5a3120fadb253c8fc34184ea85",
+      "bytes": 98779,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Feuerwehrmann Sam"
+    },
+    "heidi-alm": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/heidi-alm-78ef38093a54.jpg",
+      "sha256": "78ef38093a5461109b9387ea7f58b5d5848192b511f0b2dfdc84583cd7fbf3e5",
+      "bytes": 87584,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Heidi"
+    },
+    "heidi-dorf": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/heidi-dorf-7ca7181aae38.jpg",
+      "sha256": "7ca7181aae385869b53c77f7dc5052d73f74e635321f786296cfa6f582d56596",
+      "bytes": 85517,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Heidi"
+    },
+    "heidi-ziegen": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/heidi-ziegen-f51fcb1987f5.jpg",
+      "sha256": "f51fcb1987f59803f853466dee26e73fd682f82ebe570636780901993e534ecf",
+      "bytes": 101267,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Heidi"
+    },
+    "paw-patrol-berg": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/paw-patrol-berg-29a73aa4e9e7.jpg",
+      "sha256": "29a73aa4e9e70acb19194f95fef5ba33f714a566edd305016bd9c0fde6dafdae",
+      "bytes": 83168,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Paw Patrol"
+    },
+    "paw-patrol-garten": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/paw-patrol-garten-58253cb278f4.jpg",
+      "sha256": "58253cb278f43e5faf634be589960d9391c06231f0a6de96f276ad961c73384f",
+      "bytes": 83580,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Paw Patrol"
+    },
+    "paw-patrol-hafen": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/paw-patrol-hafen-391a965020d3.jpg",
+      "sha256": "391a965020d3a4be9964ae389afc06f8072e38aa8a86762374e47477b25cb23e",
+      "bytes": 70678,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Paw Patrol"
+    },
+    "schluempfe-dorf": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/schluempfe-dorf-d0c135768f2e.jpg",
+      "sha256": "d0c135768f2e1d4b5c670525a176f6b022f43fd8d28bb994429331cac0abeecd",
+      "bytes": 83796,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Die Schlümpfe"
+    },
+    "schluempfe-garten": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/schluempfe-garten-012a391e2d9b.jpg",
+      "sha256": "012a391e2d9b7a2c16a5ddfa4ebaf24166673d2a9b34aa5943fb0ff4d61b3b08",
+      "bytes": 92107,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Die Schlümpfe"
+    },
+    "schluempfe-picknick": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/schluempfe-picknick-6ab103e8f2db.jpg",
+      "sha256": "6ab103e8f2db14d48e61ce667f9f9789c21166647433c2b27d2cb7fcafbfcfd5",
+      "bytes": 89661,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Die Schlümpfe"
+    },
+    "super-wings-bauernhof": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/super-wings-bauernhof-845edcd54885.jpg",
+      "sha256": "845edcd54885083c7686de2d275cae179fe49afbdb9ad2713da37bad04bd1742",
+      "bytes": 95508,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Super Wings"
+    },
+    "super-wings-dschungel": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/super-wings-dschungel-72cb36eed6a5.jpg",
+      "sha256": "72cb36eed6a5d8b13189bcb3307153abc7020c36731fedbb83420b1315b677ed",
+      "bytes": 99361,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Super Wings"
+    },
+    "super-wings-flugplatz": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/super-wings-flugplatz-cc3828aed93a.jpg",
+      "sha256": "cc3828aed93ad57bdce3578ed67734f9c37838d7c816fa8500ba5bd383f61dfa",
+      "bytes": 65263,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Super Wings"
+    },
+    "super-wings-insel": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/super-wings-insel-15ff42d041b2.jpg",
+      "sha256": "15ff42d041b2f06ab5527376c3453ab280715052b5120e9aede0c4cf04d97c77",
+      "bytes": 74157,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Super Wings"
+    },
+    "baustelle-bagger": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/baustelle-bagger-8904e7a35d24.jpg",
+      "sha256": "8904e7a35d24de627bb1de3c3101fc7652f27227e2bc3fafa2425261583e1837",
+      "bytes": 76570,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Fahrzeuge"
+    },
+    "strassenbau-walze": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/strassenbau-walze-bbc6a19b97cd.jpg",
+      "sha256": "bbc6a19b97cda94d77ef3ae879f1036733bfefb9b6d06b0e82b5fa89355c7bb5",
+      "bytes": 78171,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Fahrzeuge"
+    },
+    "bahnhof-bummelzug": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/bahnhof-bummelzug-f49721c7ee8b.jpg",
+      "sha256": "f49721c7ee8b09995380b43d23a0d3fc74909c22de27afdb30d06c75a48e6652",
+      "bytes": 79125,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Fahrzeuge"
+    },
+    "waldtiere-biberbach": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/waldtiere-biberbach-9f4146878aa0.jpg",
+      "sha256": "9f4146878aa0d6442cccd5f7761ca2455923f44df94bc49d43ee654942b18a82",
+      "bytes": 97152,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "zoo-giraffe-elefant": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/zoo-giraffe-elefant-ce3a0c7e5ac3.jpg",
+      "sha256": "ce3a0c7e5ac365502831daca191ecda474fd646c05d4de3b96c2b4bb925d190d",
+      "bytes": 87328,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "chuggington-depot": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/chuggington-depot-27a0001f50b6.jpg",
+      "sha256": "27a0001f50b633aecf700ac26fd3ba678af6e3da86ce33ff407327e92ae9aa78",
+      "bytes": 81540,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Chuggington"
+    },
+    "chuggington-bruecke": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/chuggington-bruecke-b6584cfe420c.jpg",
+      "sha256": "b6584cfe420c05bec221c183bc5656db0853ae36541b52661f81314d855aa535",
+      "bytes": 105572,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Chuggington"
+    },
+    "chuggington-gueterbahnhof": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/chuggington-gueterbahnhof-092384d341e7.jpg",
+      "sha256": "092384d341e7aa644f1bab22efea3c1887235dc9854e6a5f22a4e3c4a77db8fd",
+      "bytes": 88262,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Chuggington"
+    },
+    "weltraum-mondstation": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/weltraum-mondstation-fded51406457.jpg",
+      "sha256": "fded514064573744c60dd2c852290e113596d8646b37642c3e64b76d48128bbc",
+      "bytes": 88582,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Weltraum"
+    },
+    "dinosaurier-flussufer": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/dinosaurier-flussufer-4eac47f2bbc4.jpg",
+      "sha256": "4eac47f2bbc42fe2a8841209e49eac0a20707aeb114a67f218c959e344528ef5",
+      "bytes": 92889,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Dinosaurier"
+    },
+    "polar-eisbaeren-eishoehle": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/polar-eisbaeren-eishoehle-881ed7d7cf9a.jpg",
+      "sha256": "881ed7d7cf9a949ab89256cdcf231f95be0c038c54b2e818353dd29b5e4dbdbd",
+      "bytes": 78575,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "polar-pinguine-eisrutsche": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/polar-pinguine-eisrutsche-135d49a6a15f.jpg",
+      "sha256": "135d49a6a15f2c68504f1c0fcce717546f4493f6d37dbdc7141287b4b03fbdf4",
+      "bytes": 80309,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "polar-robben-muschelstrand": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/polar-robben-muschelstrand-1380c0a0ca9e.jpg",
+      "sha256": "1380c0a0ca9e8f2e65533af97c41f61fc61555363184d850893d59c7d8dff119",
+      "bytes": 92079,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "polar-walrosse-schlitten": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/polar-walrosse-schlitten-e2777030f06f.jpg",
+      "sha256": "e2777030f06fe6e4b5c26ce394cccce736b643e0b9edd1486b387afd37620f49",
+      "bytes": 80006,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "polar-polarfuechse-schneeule": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/polar-polarfuechse-schneeule-309e148f6a96.jpg",
+      "sha256": "309e148f6a961bb0c8525527e824ca8dcacba943710f631f496d28c39d9abc3f",
+      "bytes": 76885,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "waschbaeren-backstube": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/waschbaeren-backstube-446206e4b527.jpg",
+      "sha256": "446206e4b527172f79355ba9509c814d9548dc28c873b635b8e6e7fe82764a13",
+      "bytes": 80509,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "katzen-heissluftballon": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/katzen-heissluftballon-ed902f3605b1.jpg",
+      "sha256": "ed902f3605b141ea33a0c92b0dcb941a367bee4bfc9683187a4bc8bb9bc59383",
+      "bytes": 83087,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "froesche-seerosenkonzert": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/froesche-seerosenkonzert-7ba2bc75c71b.jpg",
+      "sha256": "7ba2bc75c71b99762b69af9cc646149e384e51a00c5f30f5d2dbad859c1431d4",
+      "bytes": 77833,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "maeuse-uhrenwerkstatt": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/maeuse-uhrenwerkstatt-0dc195e25de5.jpg",
+      "sha256": "0dc195e25de5c8c976544ed53f6f9971e64319c897f6b836891a6883e2bc956e",
+      "bytes": 79010,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "schildkroeten-schatzsuche": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/schildkroeten-schatzsuche-1cfd8c22f583.jpg",
+      "sha256": "1cfd8c22f58353f19dd4ee81788824cd5a1dae3ac5174ed80e2c398ffe50da2f",
+      "bytes": 101557,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "fledermaeuse-dachboden": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/fledermaeuse-dachboden-7e127ecd2e54.jpg",
+      "sha256": "7e127ecd2e5429b292c83b3fc7b51fcfd9fb760b36bf05bc89d46d6585620231",
+      "bytes": 76544,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "krabben-sandburg": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/krabben-sandburg-bbcf503a1484.jpg",
+      "sha256": "bbcf503a1484c0cc66f4085874390ff266b5c1ef80738f753a102995a55541cb",
+      "bytes": 90265,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "eichhoernchen-drachen": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/eichhoernchen-drachen-aeb02fec4cb2.jpg",
+      "sha256": "aeb02fec4cb24566d7f7a0b4d3fa56243134c90b6bde5ecc3220d7d699b834e8",
+      "bytes": 83234,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "kaninchen-toepferstube": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/kaninchen-toepferstube-14fb19a49de6.jpg",
+      "sha256": "14fb19a49de6a9ebd475eec69e878f118d2e8860cc6d52c9ad05b8dfcb288174",
+      "bytes": 78027,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "igel-sternwarte": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/igel-sternwarte-4c6d71011836.jpg",
+      "sha256": "4c6d71011836f8f56e12fa4762e997dc7916c07a118af6c3a81cbef3f32d527a",
+      "bytes": 79195,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "otter-wassermuehle": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/otter-wassermuehle-55187f248b49.jpg",
+      "sha256": "55187f248b498b7f57a4408dc3182933406934ea0b1f46ec14d9c9f0fc27c4ef",
+      "bytes": 101697,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "pandas-bambuspicknick": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/pandas-bambuspicknick-9d16235f523f.jpg",
+      "sha256": "9d16235f523ffa10dbffb5922ef784473a2573b69e3dfdf5f57b1aa68736df0e",
+      "bytes": 95402,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "fuechse-apfelmost": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/fuechse-apfelmost-e899db097d37.jpg",
+      "sha256": "e899db097d37378c8e6ab35f5f2aedc269fb004522aabd39b30b8a9cdf8b34ca",
+      "bytes": 100208,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "koalas-baumhauspost": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/koalas-baumhauspost-495a68130e2a.jpg",
+      "sha256": "495a68130e2a02857faacbc6b01d4bd56c1fd2facf5faf5b71cf521fe7cbdc61",
+      "bytes": 102274,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "erdmaennchen-ausgrabung": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/erdmaennchen-ausgrabung-40e2515736bf.jpg",
+      "sha256": "40e2515736bf852948d064d09eee1f7cbe512ee1469ed132453ad2373369562d",
+      "bytes": 91634,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "dachse-in-der-schneiderei-0bc35750": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/dachse-in-der-schneiderei-0bc35750-7ea141a8cd31.jpg",
+      "sha256": "7ea141a8cd315d56ae76970c17b1e698776f1feceb44f0e23bc5442e53821f16",
+      "bytes": 85429,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Eigene Abenteuer"
+    },
+    "hamster-im-gewachshaus-124d72dc": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/hamster-im-gewachshaus-124d72dc-62b6230882c6.jpg",
+      "sha256": "62b6230882c62ffab45da31f97ee2d80ebebf823b02266020d28e224c0243c8c",
+      "bytes": 88458,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "papageien-im-freiluftkino-bc218bea": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/papageien-im-freiluftkino-bc218bea-c6b7a7c9f234.jpg",
+      "sha256": "c6b7a7c9f234a081a357d88954ccd8b795ad9c305ebebbfe8ebb617561e1c89d",
+      "bytes": 84960,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Tiere"
+    },
+    "chamaleons-auf-u-boot-entdecku-682c5759": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/chamaleons-auf-u-boot-entdecku-682c5759-a7e5d8c28405.jpg",
+      "sha256": "a7e5d8c284053e38c56d9a7a741947e707ea644c7ed2138fc513e8086a404317",
+      "bytes": 85456,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Neue eigenständige Abenteuer"
+    },
+    "faultiere-im-seifenblasen-wasc-3cc0f9d9": {
+      "url": "https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/previews/v1/faultiere-im-seifenblasen-wasc-3cc0f9d9-7e98874bd3b3.jpg",
+      "sha256": "7e98874bd3b330afe201e5702e0a79fc2d9bafa561b07a686f951b9818428d7b",
+      "bytes": 80996,
+      "width": 384,
+      "height": 384,
+      "themeLabel": "Neue eigenständige Abenteuer"
+    }
+  }
 }

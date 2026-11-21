@@ -10,11 +10,11 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![55 Motive](https://img.shields.io/badge/Motive-55-efba4e)
 
-**[Version 1.4.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.5.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 &nbsp; · &nbsp;
-[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.4.0.apk)
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.5.0.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
@@ -37,6 +37,19 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 - **Offline weiterspielen:** einmal geladene Bilder bleiben auf dem Tablet gespeichert.
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Dazu gehören: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
+
+## Neu in Version 1.5.0
+
+- **Sammelalbum:** Die vorhandenen Motive als Sammlung ansehen, nach gesammelten oder noch offenen Motiven filtern und jede der drei Stufen direkt öffnen. Ein vollständig gelöstes Rätsel auf einer Stufe sammelt das Motiv für das aktuelle Profil. Alle Motive bleiben jederzeit spielbar; Fortschritte werden aus den bestehenden Spielständen übernommen.
+- **Sicherungsstatus im Elternbereich:** Zeitpunkt des letzten erfolgreich geschriebenen Exports und Änderungen an Fortschritten, Favoriten oder Spieleinstellungen seitdem. Ein Abbruch oder Schreibfehler erzeugt keinen neuen Beleg. Der Vergleich gilt für beide Profile; die externe Sicherungsdatei wird nicht auf Verfügbarkeit geprüft. Frühere Exporte lassen sich nachträglich nicht erkennen.
+- **Vorschau vor dem Bilderladen:** Alle 55 Motive haben eine kleine Vorschau mit Thema, Downloadgröße und freiem Gerätespeicher. Eine Vorschau lädt unabhängig vom großen Paket, wird anhand des signierten Katalogs geprüft und zwischengespeichert. Ist sie gerade nicht erreichbar, bleibt der normale Paketdownload möglich.
+- **Optional vorlesen:** Kurze deutsche Spielhinweise beim Öffnen, bei Treffern und Tipps sowie „Vorlesen“ im Menü. Standardmäßig aus und je Profil einschaltbar. Verwendet ausschließlich eine installierte deutsche Offline-Stimme. Wenn sie fehlt, erscheint ein verständlicher Hinweis; das Spiel funktioniert weiter. Bei aktivem Bildschirmleser bleiben zusätzliche Spielansagen stumm.
+
+Sammelalbum und Vorlesen sind über das feste Menü erreichbar; ihre Startseiten-Schaltflächen lassen sich unter **Eltern → Darstellung & Funktionen** ausblenden. Die bisherigen 16 Optionen bleiben erhalten; mit den zwei neuen gibt es **18 Anzeigeoptionen**. Kleine Querformatansichten nutzen kompakte Symbole und vollständige Beschreibungen für die Sprachausgabe des Systems.
+
+**Eltern → Profile & Spiel** enthält die Einstellungen für kurze Spielhinweise, Downloadvorschauen und den Sicherungsstatus im Eltern-Hauptmenü. Dort lassen sich die Offline-Stimme prüfen und die Spielstände beider Profile sichern. Diese Einstellungen werden mit den Spielständen exportiert; der lokale Sicherungsbeleg wird nicht mitgenommen.
+
+Normale App-Updates erhalten alle Motive, Treffer, Favoriten und bisherigen Anzeigeoptionen. Ein erneuter Download der Spielbilder ist für Version 1.5 nicht nötig.
 
 ## Neu in Version 1.4.0
 
@@ -86,7 +99,7 @@ Tipps und Zoom stellst du unter **Eltern → Profile & Spiel** ein. „Neueste M
 | Eigene Sicherungsdatei | Beide Profile samt Fortschritten, Favoriten und Einstellungen exportieren und wiederherstellen. |
 | Bessere Zugänglichkeit | Größere Systemschrift, zugängliche Bedienelemente und Scrollaktionen. |
 
-**Status:** Version 1.4.0 wird über die vorhandene Updateprüfung angeboten. Funktionen, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
+**Status:** Version 1.5.0 wird über die vorhandene Updateprüfung angeboten. Funktionen, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
 
 ## Installieren oder aktualisieren
 
@@ -131,7 +144,7 @@ Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicher
 
 ## Veröffentlichungen und Rückfallversion
 
-Öffentlich steht die aktuelle **Version 1.4.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
+Öffentlich steht die aktuelle **Version 1.5.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
 
 Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 55 WebP-Pakete für Version 1.0. Die fünf neuen Motive benötigen mindestens App-Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
 
