@@ -2,7 +2,7 @@
 
 # 🔎 Fünf Entdecker
 
-**Zwei Bilder. Fünf Unterschiede. Ganz ohne Zeitdruck.**
+**Zwei Bilder. Fünf Unterschiede. Spiel in deinem Tempo.**
 
 Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 
@@ -10,15 +10,15 @@ Ein ruhiges Suchspiel für Android- und Amazon-Fire-Tablets.
 ![Offline spielbar](https://img.shields.io/badge/Offline-spielbar-24766c)
 ![55 Motive](https://img.shields.io/badge/Motive-55-efba4e)
 
-**[Version 1.5.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
+**[Version 1.6.0 herunterladen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases/latest/download/Fuenf-Entdecker.apk)**
 &nbsp; · &nbsp;
 [Alle Veröffentlichungen](https://github.com/manueloberberger/fuenf-entdecker-downloads/releases)
 &nbsp; · &nbsp;
-[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.5.0.apk)
+[Alternativer Download](https://raw.githubusercontent.com/manueloberberger/fuenf-entdecker-downloads/main/apk/Fuenf-Entdecker-1.6.0.apk)
 
 <img src="docs/spielansicht.png" alt="Fünf Entdecker: zwei gleich große Sternwartenbilder mit Igeln, Trefferzähler, Sammelsternen und Tipp-Schaltfläche" width="960">
 
-Keine Werbung · Kein Konto · Keine Zeitlimits
+Keine Werbung · Kein Konto · Zeitmodus optional
 
 </div>
 
@@ -33,10 +33,22 @@ APK im Elternprofil installieren, App öffnen und die angebotenen Bilder laden. 
 - **Zwei lokale Profile:** Entdecker ab 3 und ab 6 Jahren mit getrennten Fortschritten und Favoriten.
 - **Drei Stufen:** Leicht, Mittel und Knifflig – jede mit eigenen Fehlerstellen.
 - **Vollständige Bilder:** quer nebeneinander, hoch untereinander, auf beiden Seiten gleich groß.
-- **In Ruhe suchen:** kein Countdown und kein automatisches Lösen.
+- **In Ruhe suchen:** Standardmäßig spielst du ohne Zeitlimit. Countdown und Stoppuhr sind optional.
 - **Offline weiterspielen:** einmal geladene Bilder bleiben auf dem Tablet gespeichert.
 
 Die Motive reichen von Tierabenteuern und Polartieren über Fahrzeuge, Weltraum und Dinosaurier bis zu bekannten Serienwelten. Dazu gehören: Otter an der Wassermühle, Pandas beim Bambus-Picknick, Füchse beim Apfelmosten, Koalas in der Baumhaus-Poststation und Erdmännchen bei der Ausgrabung.
+
+## Neu in Version 1.6.0
+
+- **Noch einmal spielen.** Gelöste Motive frei wiederholen und später an einer begonnenen Wiederholung weiterspielen. Sammelsterne und bisherige Treffer bleiben erhalten.
+- **Drei Spielmodi.** „Ohne Zeit“ ist die Standardeinstellung. Im Countdown zählen Treffer über mehrere Motive. Die Stoppuhr misst die Suchzeit für ein Motiv. Ladezeit und Spielpausen zählen dabei nicht mit.
+- **Sammelalbum.** Filter und Scrollposition werden für jedes Profil separat gespeichert.
+- **Eigene Ansichten.** Unter **Elternmenü → Darstellung & Funktionen** lassen sich bis zu drei Ansichten pro Profil benennen und wieder anwenden. Die aktuelle Darstellung kann auch ins andere Profil kopiert werden. Über die Suche und den Filter findest du die 20 Anzeigeoptionen schneller.
+- **Sicherung wiederherstellen.** Vor dem Bestätigen zeigt die App, was sich in beiden Profilen ändern würde.
+
+Das Elternmenü ist oben rechts mit größerer Schrift beschriftet. Halte die Schaltfläche zwei Sekunden gedrückt, um es zu öffnen.
+
+Die 55 vorhandenen Motive können nach einem App-Update direkt weitergespielt werden.
 
 ## Neu in Version 1.5.0
 
@@ -99,7 +111,7 @@ Tipps und Zoom stellst du unter **Eltern → Profile & Spiel** ein. „Neueste M
 | Eigene Sicherungsdatei | Beide Profile samt Fortschritten, Favoriten und Einstellungen exportieren und wiederherstellen. |
 | Bessere Zugänglichkeit | Größere Systemschrift, zugängliche Bedienelemente und Scrollaktionen. |
 
-**Status:** Version 1.5.0 wird über die vorhandene Updateprüfung angeboten. Funktionen, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
+**Status:** Version 1.6.0 wird über die vorhandene Updateprüfung angeboten. Funktionen, Migration und Oberfläche wurden im lokalen Android-Emulator geprüft. Erfahrungen vom echten Fire-Tablet fließen bei Bedarf in Folgeupdates ein.
 
 ## Installieren oder aktualisieren
 
@@ -144,9 +156,9 @@ Eine Deinstallation oder das Löschen der Appdaten entfernt die lokal gespeicher
 
 ## Veröffentlichungen und Rückfallversion
 
-Öffentlich steht die aktuelle **Version 1.5.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
+Öffentlich steht die aktuelle **Version 1.6.0** bereit. Eine bewährte Vorgängerversion wird als Backup im privaten Quellrepository aufbewahrt. Überholte App-Zwischenstände und Testkandidaten werden nach der regulären Freigabe entfernt; die Quellhistorie bleibt erhalten.
 
-Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet weiterhin alle 45 PNG-Pakete für ältere Apps und 55 WebP-Pakete für Version 1.0. Die fünf neuen Motive benötigen mindestens App-Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
+Die separaten Bilderreleases bleiben erhalten: Der signierte Katalog verwendet 55 kompatible Pakete, darunter die 45 ursprünglichen PNG-Pakete, sowie 55 WebP-Varianten. Die fünf neuen Motive benötigen mindestens App-Version 1.0. Bilderreleases ersetzen niemals die aktuelle App unter dem festen Downloadlink.
 
 ## Schutz und geprüfte Downloads
 
